@@ -21,21 +21,21 @@
 //      Authentication -> Settings -> Authorized domains.
 
 const firebaseConfig = {
-  apiKey: "REPLACE_ME",
-  authDomain: "REPLACE_ME.firebaseapp.com",
-  projectId: "REPLACE_ME",
-  storageBucket: "REPLACE_ME.firebasestorage.app",
-  messagingSenderId: "REPLACE_ME",
-  appId: "REPLACE_ME",
+  apiKey: "AIzaSyB0CfPFlbNeGu_jq12JjJcXIq3d9d5PBdU",
+  authDomain: "jobs-we-care-you.firebaseapp.com",
+  projectId: "jobs-we-care-you",
+  storageBucket: "jobs-we-care-you.firebasestorage.app",
+  messagingSenderId: "109056475031",
+  appId: "1:109056475031:web:3ea598382db0a8863e0ed2",
 
-  // Base URL of the deployed "tailorApplication" Cloud Function, used by the
-  // Settings -> "Tailor" button for AI CV/statement tailoring. Leave this as
-  // an empty string until you've deployed the function (see "Set up AI
+  // Base URL of the deployed "tailorResume" Cloud Function, used by the
+  // Settings → "Tailor" button for AI resume tailoring. Leave this as an
+  // empty string until you've deployed the function (see "Set up AI resume
   // tailoring" in DEPLOY.md) — the Tailor button will show a helpful message
   // instead of failing silently until this is filled in. Once deployed, the
   // Firebase CLI prints the exact URL to use, e.g.:
-  //   https://us-central1-YOUR-PROJECT-ID.cloudfunctions.net/tailorApplication
-  // Set this to everything BEFORE the trailing "/tailorApplication", e.g.:
-  //   https://us-central1-YOUR-PROJECT-ID.cloudfunctions.net
+  //   https://us-central1-jobs-we-care-you.cloudfunctions.net/tailorResume
+  // Set this to everything BEFORE the trailing "/tailorResume", e.g.:
+  //   https://us-central1-jobs-we-care-you.cloudfunctions.net
   cloudFunctionsBaseUrl: ""
 };
