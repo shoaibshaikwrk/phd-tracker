@@ -1,0 +1,2762 @@
+[
+  {
+    "id": "school_aueb",
+    "name": "AUEB",
+    "url": "https://www.dept.aueb.gr/en/cs",
+    "location": "GR"
+  },
+  {
+    "id": "school_aalborg_university",
+    "name": "Aalborg University",
+    "url": "https://www.cs.aau.dk/",
+    "location": "DK"
+  },
+  {
+    "id": "school_aalto_university",
+    "name": "Aalto University",
+    "url": "https://www.aalto.fi/en/department-of-computer-science",
+    "location": "FI"
+  },
+  {
+    "id": "school_aarhus_university",
+    "name": "Aarhus University",
+    "url": "https://cs.au.dk/",
+    "location": "DK"
+  },
+  {
+    "id": "school_aberystwyth_university",
+    "name": "Aberystwyth University",
+    "url": "https://www.aber.ac.uk/en/cs/",
+    "location": "GB"
+  },
+  {
+    "id": "school_air_force_inst_of_technology",
+    "name": "Air Force Inst. of Technology",
+    "url": "https://www.afit.edu/ENG/",
+    "location": "US"
+  },
+  {
+    "id": "school_ariel_university",
+    "name": "Ariel University",
+    "url": "https://www.ariel.ac.il/wp/cs/en/",
+    "location": "IL"
+  },
+  {
+    "id": "school_arizona_state_university",
+    "name": "Arizona State University",
+    "url": "https://scai.engineering.asu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_auburn_university",
+    "name": "Auburn University",
+    "url": "https://www.eng.auburn.edu/comp/",
+    "location": "US"
+  },
+  {
+    "id": "school_augusta_university",
+    "name": "Augusta University",
+    "url": "https://www.augusta.edu/ccs/",
+    "location": "US"
+  },
+  {
+    "id": "school_babe_bolyai_university",
+    "name": "Babeș-Bolyai University",
+    "url": "https://www.cs.ubbcluj.ro",
+    "location": "RO"
+  },
+  {
+    "id": "school_bar_ilan_university",
+    "name": "Bar-Ilan University",
+    "url": "https://cs.biu.ac.il/",
+    "location": "IL"
+  },
+  {
+    "id": "school_bauhaus_university_weimar",
+    "name": "Bauhaus University Weimar",
+    "url": "https://www.uni-weimar.de/en/media/structure/computer-science-department",
+    "location": "DE"
+  },
+  {
+    "id": "school_baylor_university",
+    "name": "Baylor University",
+    "url": "https://www.ecs.baylor.edu/programs-departments/computer-science",
+    "location": "US"
+  },
+  {
+    "id": "school_ben_gurion_university_of_the_negev",
+    "name": "Ben-Gurion University of the Negev",
+    "url": "https://www.cs.bgu.ac.il",
+    "location": "IL"
+  },
+  {
+    "id": "school_bielefeld_university",
+    "name": "Bielefeld University",
+    "url": "https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/",
+    "location": "DE"
+  },
+  {
+    "id": "school_bilkent_university",
+    "name": "Bilkent University",
+    "url": "https://www.cs.bilkent.edu.tr",
+    "location": "TR"
+  },
+  {
+    "id": "school_binghamton_university",
+    "name": "Binghamton University",
+    "url": "https://www.binghamton.edu/computer-science/",
+    "location": "US"
+  },
+  {
+    "id": "school_birkbeck_university_of_london",
+    "name": "Birkbeck University of London",
+    "url": "https://www.dcs.bbk.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_bocconi_university",
+    "name": "Bocconi University",
+    "url": "https://cs.unibocconi.eu",
+    "location": "IT"
+  },
+  {
+    "id": "school_boise_state_university",
+    "name": "Boise State University",
+    "url": "https://www.boisestate.edu/coen-cs/",
+    "location": "US"
+  },
+  {
+    "id": "school_boston_college",
+    "name": "Boston College",
+    "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/computer-science.html",
+    "location": "US"
+  },
+  {
+    "id": "school_boston_university",
+    "name": "Boston University",
+    "url": "https://www.bu.edu/cs/",
+    "location": "US"
+  },
+  {
+    "id": "school_bo_azi_i_university",
+    "name": "Boğaziçi University",
+    "url": "https://www.cmpe.boun.edu.tr",
+    "location": "TR"
+  },
+  {
+    "id": "school_brandeis_university",
+    "name": "Brandeis University",
+    "url": "https://www.brandeis.edu/computer-science/",
+    "location": "US"
+  },
+  {
+    "id": "school_brandenburg_univ_of_technology",
+    "name": "Brandenburg Univ. of Technology",
+    "url": "https://www.b-tu.de/en/institut-fuer-informatik",
+    "location": "DE"
+  },
+  {
+    "id": "school_brigham_young_university",
+    "name": "Brigham Young University",
+    "url": "https://cs.byu.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_brno_university_of_technology",
+    "name": "Brno University of Technology",
+    "url": "https://www.fit.vut.cz",
+    "location": "CZ"
+  },
+  {
+    "id": "school_brown_university",
+    "name": "Brown University",
+    "url": "https://cs.brown.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_brunel_university_london",
+    "name": "Brunel University London",
+    "url": "https://www.brunel.ac.uk/computer-science",
+    "location": "GB"
+  },
+  {
+    "id": "school_budapest_univ_of_tech_and_econ",
+    "name": "Budapest Univ. of Tech. and Econ.",
+    "url": "https://www.cs.bme.hu/english/",
+    "location": "HU"
+  },
+  {
+    "id": "school_bundeswehr_university_munich",
+    "name": "Bundeswehr University Munich",
+    "url": "https://www.unibw.de/home-en/departments/department-of-computer-science",
+    "location": "DE"
+  },
+  {
+    "id": "school_cispa_helmholtz_center",
+    "name": "CISPA Helmholtz Center",
+    "url": "https://cispa.saarland",
+    "location": "DE"
+  },
+  {
+    "id": "school_cnrs",
+    "name": "CNRS",
+    "url": "https://www.ins2i.cnrs.fr/en",
+    "location": "FR"
+  },
+  {
+    "id": "school_cristal",
+    "name": "CRIStAL",
+    "url": "https://www.cristal.univ-lille.fr",
+    "location": "FR"
+  },
+  {
+    "id": "school_cuny",
+    "name": "CUNY",
+    "url": "https://www.gc.cuny.edu/computer-science",
+    "location": "US"
+  },
+  {
+    "id": "school_cwi",
+    "name": "CWI",
+    "url": "https://www.cwi.nl/en/",
+    "location": "NL"
+  },
+  {
+    "id": "school_california_inst_of_technology",
+    "name": "California Inst. of Technology",
+    "url": "https://www.cms.caltech.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_cardiff_university",
+    "name": "Cardiff University",
+    "url": "https://www.cardiff.ac.uk/computer-science",
+    "location": "GB"
+  },
+  {
+    "id": "school_carnegie_mellon_university",
+    "name": "Carnegie Mellon University",
+    "url": "https://www.csd.cs.cmu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_case_western_reserve_university",
+    "name": "Case Western Reserve University",
+    "url": "https://engineering.case.edu/computer-and-data-sciences",
+    "location": "US"
+  },
+  {
+    "id": "school_chalmers_gu",
+    "name": "Chalmers/GU",
+    "url": "https://www.chalmers.se/en/departments/cse/",
+    "location": "SE"
+  },
+  {
+    "id": "school_charles_university",
+    "name": "Charles University",
+    "url": "https://cs.mff.cuni.cz/en",
+    "location": "CZ"
+  },
+  {
+    "id": "school_city_university_of_london",
+    "name": "City University of London",
+    "url": "https://www.city.ac.uk/about/schools/science-technology/computer-science",
+    "location": "GB"
+  },
+  {
+    "id": "school_claremont_graduate_university",
+    "name": "Claremont Graduate University",
+    "url": "https://www.cgu.edu/school/center-for-information-systems-and-technology/",
+    "location": "US"
+  },
+  {
+    "id": "school_clemson_university",
+    "name": "Clemson University",
+    "url": "https://www.clemson.edu/cecas/departments/computing/",
+    "location": "US"
+  },
+  {
+    "id": "school_cleveland_state_university",
+    "name": "Cleveland State University",
+    "url": "https://engineering.csuohio.edu/cs",
+    "location": "US"
+  },
+  {
+    "id": "school_college_of_william_and_mary",
+    "name": "College of William and Mary",
+    "url": "https://www.wm.edu/as/computerscience/",
+    "location": "US"
+  },
+  {
+    "id": "school_colorado_school_of_mines",
+    "name": "Colorado School of Mines",
+    "url": "https://cs.mines.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_colorado_state_university",
+    "name": "Colorado State University",
+    "url": "https://compsci.colostate.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_columbia_university",
+    "name": "Columbia University",
+    "url": "https://www.cs.columbia.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_cornell_university",
+    "name": "Cornell University",
+    "url": "https://www.cs.cornell.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_cyprus_university_of_technology",
+    "name": "Cyprus University of Technology",
+    "url": "https://www.cut.ac.cy/faculties/fet/eecei/",
+    "location": "CY"
+  },
+  {
+    "id": "school_czech_technical_university",
+    "name": "Czech Technical University",
+    "url": "https://cmp.felk.cvut.cz",
+    "location": "CZ"
+  },
+  {
+    "id": "school_dtu",
+    "name": "DTU",
+    "url": "https://www.compute.dtu.dk/",
+    "location": "DK"
+  },
+  {
+    "id": "school_dartmouth_college",
+    "name": "Dartmouth College",
+    "url": "https://web.cs.dartmouth.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_depaul_university",
+    "name": "DePaul University",
+    "url": "https://www.cdm.depaul.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_drexel_university",
+    "name": "Drexel University",
+    "url": "https://drexel.edu/cci/academics/computer-science-department/",
+    "location": "US"
+  },
+  {
+    "id": "school_duke_university",
+    "name": "Duke University",
+    "url": "https://cs.duke.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_durham_university",
+    "name": "Durham University",
+    "url": "https://www.durham.ac.uk/departments/academic/computer-science/",
+    "location": "GB"
+  },
+  {
+    "id": "school_epfl",
+    "name": "EPFL",
+    "url": "https://www.epfl.ch/schools/ic/",
+    "location": "CH"
+  },
+  {
+    "id": "school_eth_zurich",
+    "name": "ETH Zurich",
+    "url": "https://inf.ethz.ch/",
+    "location": "CH"
+  },
+  {
+    "id": "school_eurecom",
+    "name": "EURECOM",
+    "url": "https://www.eurecom.fr",
+    "location": "FR"
+  },
+  {
+    "id": "school_ecole_normale_superieure",
+    "name": "Ecole Normale Superieure",
+    "url": "https://www.di.ens.fr/",
+    "location": "FR"
+  },
+  {
+    "id": "school_ecole_normale_superieure_de_cachan",
+    "name": "Ecole Normale Superieure de Cachan",
+    "url": "https://www.lsv.ens-cachan.fr",
+    "location": "FR"
+  },
+  {
+    "id": "school_ecole_normale_superieure_de_lyon",
+    "name": "Ecole Normale Superieure de Lyon",
+    "url": "https://informatique.ens-lyon.fr",
+    "location": "FR"
+  },
+  {
+    "id": "school_ecole_normale_superieure_de_rennes",
+    "name": "Ecole Normale Superieure de Rennes",
+    "url": "http://www.ens-rennes.fr/research-in-computer-sciences-and-telecommunications-157088.kjsp",
+    "location": "FR"
+  },
+  {
+    "id": "school_emory_university",
+    "name": "Emory University",
+    "url": "https://computerscience.emory.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_florida_atlantic_university",
+    "name": "Florida Atlantic University",
+    "url": "https://www.fau.edu/engineering/eecs/",
+    "location": "US"
+  },
+  {
+    "id": "school_florida_institute_of_technology",
+    "name": "Florida Institute of Technology",
+    "url": "https://cs.fit.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_florida_international_university",
+    "name": "Florida International University",
+    "url": "https://www.cis.fiu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_florida_state_university",
+    "name": "Florida State University",
+    "url": "https://www.cs.fsu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_freie_universitaet_berlin",
+    "name": "Freie Universitaet Berlin",
+    "url": "https://www.mi.fu-berlin.de/en/inf/",
+    "location": "DE"
+  },
+  {
+    "id": "school_friedrich_schiller_university_jena",
+    "name": "Friedrich Schiller University Jena",
+    "url": "https://www.fmi.uni-jena.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_gssi",
+    "name": "GSSI",
+    "url": "https://cs.gssi.it",
+    "location": "IT"
+  },
+  {
+    "id": "school_galatasaray_university",
+    "name": "Galatasaray University",
+    "url": "https://bm.gsu.edu.tr/en",
+    "location": "TR"
+  },
+  {
+    "id": "school_george_mason_university",
+    "name": "George Mason University",
+    "url": "https://cs.gmu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_george_washington_university",
+    "name": "George Washington University",
+    "url": "https://cs.engineering.gwu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_georgetown_university",
+    "name": "Georgetown University",
+    "url": "https://cs.georgetown.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_georgia_institute_of_technology",
+    "name": "Georgia Institute of Technology",
+    "url": "https://www.cc.gatech.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_georgia_state_university",
+    "name": "Georgia State University",
+    "url": "https://csds.gsu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_goethe_university_frankfurt",
+    "name": "Goethe University Frankfurt",
+    "url": "https://www.goethe-university-frankfurt.de/106076806/Institute_of_Computer_Science",
+    "location": "DE"
+  },
+  {
+    "id": "school_goldsmiths_university_of_london",
+    "name": "Goldsmiths University of London",
+    "url": "https://www.gold.ac.uk/computing/",
+    "location": "GB"
+  },
+  {
+    "id": "school_graz_university_of_technology",
+    "name": "Graz University of Technology",
+    "url": "https://www.tugraz.at/fakultaeten/csbme/home",
+    "location": "AT"
+  },
+  {
+    "id": "school_hse_university",
+    "name": "HSE University",
+    "url": "https://cs.hse.ru/en/",
+    "location": "RU"
+  },
+  {
+    "id": "school_hacettepe_university",
+    "name": "Hacettepe University",
+    "url": "https://web.cs.hacettepe.edu.tr",
+    "location": "TR"
+  },
+  {
+    "id": "school_hamburg_university_of_technology",
+    "name": "Hamburg University of Technology",
+    "url": "https://www.tuhh.de/tuhh/en/schools/electrical-engineering-computer-science-and-mathematics",
+    "location": "DE"
+  },
+  {
+    "id": "school_harvard_university",
+    "name": "Harvard University",
+    "url": "https://seas.harvard.edu/computer-science",
+    "location": "US"
+  },
+  {
+    "id": "school_hasso_plattner_institute",
+    "name": "Hasso Plattner Institute",
+    "url": "https://hpi.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_hebrew_university_of_jerusalem",
+    "name": "Hebrew University of Jerusalem",
+    "url": "https://www.cs.huji.ac.il/",
+    "location": "IL"
+  },
+  {
+    "id": "school_heidelberg_university",
+    "name": "Heidelberg University",
+    "url": "https://www.informatik.uni-heidelberg.de/",
+    "location": "DE"
+  },
+  {
+    "id": "school_heriot_watt_university",
+    "name": "Heriot-Watt University",
+    "url": "https://www.hw.ac.uk/about/our-schools/mathematical-and-computer-sciences/",
+    "location": "GB"
+  },
+  {
+    "id": "school_humboldt_university_of_berlin",
+    "name": "Humboldt University of Berlin",
+    "url": "https://www.informatik.hu-berlin.de/en",
+    "location": "DE"
+  },
+  {
+    "id": "school_imdea_networks_institute",
+    "name": "IMDEA Networks Institute",
+    "url": "https://networks.imdea.org",
+    "location": "ES"
+  },
+  {
+    "id": "school_imdea_software_institute",
+    "name": "IMDEA Software Institute",
+    "url": "https://software.imdea.org",
+    "location": "ES"
+  },
+  {
+    "id": "school_inria",
+    "name": "INRIA",
+    "url": "https://cambium.inria.fr",
+    "location": "FR"
+  },
+  {
+    "id": "school_insait",
+    "name": "INSAIT",
+    "url": "https://insait.ai",
+    "location": "BG"
+  },
+  {
+    "id": "school_ipi_pan",
+    "name": "IPI PAN",
+    "url": "https://ipipan.waw.pl",
+    "location": "PL"
+  },
+  {
+    "id": "school_ist_austria",
+    "name": "IST Austria",
+    "url": "https://ist.ac.at/en/research/",
+    "location": "AT"
+  },
+  {
+    "id": "school_it_university_of_copenhagen",
+    "name": "IT University of Copenhagen",
+    "url": "https://en.itu.dk/",
+    "location": "DK"
+  },
+  {
+    "id": "school_iupui",
+    "name": "IUPUI",
+    "url": "https://cs.iupui.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_illinois_institute_of_technology",
+    "name": "Illinois Institute of Technology",
+    "url": "https://www.iit.edu/computer-science",
+    "location": "US"
+  },
+  {
+    "id": "school_imperial_college_london",
+    "name": "Imperial College London",
+    "url": "https://www.imperial.ac.uk/computing/",
+    "location": "GB"
+  },
+  {
+    "id": "school_indiana_state_university",
+    "name": "Indiana State University",
+    "url": "https://cs.indstate.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_indiana_university",
+    "name": "Indiana University",
+    "url": "https://cs.indiana.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_institut_polytechnique_de_paris",
+    "name": "Institut Polytechnique de Paris",
+    "url": "https://cs.ip-paris.fr/",
+    "location": "FR"
+  },
+  {
+    "id": "school_iowa_state_university",
+    "name": "Iowa State University",
+    "url": "https://www.cs.iastate.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_istanbul_technical_university",
+    "name": "Istanbul Technical University",
+    "url": "https://bbf.itu.edu.tr/en",
+    "location": "TR"
+  },
+  {
+    "id": "school_istanbul_university_cerrahpa_a",
+    "name": "Istanbul University-Cerrahpaşa",
+    "url": "https://bilgisayarmuhendislik.iuc.edu.tr/en",
+    "location": "TR"
+  },
+  {
+    "id": "school_izmir_institute_of_technology",
+    "name": "Izmir Institute of Technology",
+    "url": "https://ceng.iyte.edu.tr",
+    "location": "TR"
+  },
+  {
+    "id": "school_jku_linz",
+    "name": "JKU Linz",
+    "url": "https://informatik.jku.at/",
+    "location": "AT"
+  },
+  {
+    "id": "school_jacobs_university_bremen",
+    "name": "Jacobs University Bremen",
+    "url": "https://constructor.university/research/school-of-computer-science-and-engineering",
+    "location": "DE"
+  },
+  {
+    "id": "school_jagiellonian_university",
+    "name": "Jagiellonian University",
+    "url": "https://ii.uj.edu.pl/en_GB/",
+    "location": "PL"
+  },
+  {
+    "id": "school_johns_hopkins_university",
+    "name": "Johns Hopkins University",
+    "url": "https://www.cs.jhu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_kth_royal_inst_of_technology",
+    "name": "KTH Royal Inst. of Technology",
+    "url": "https://eecs.kth.se/",
+    "location": "SE"
+  },
+  {
+    "id": "school_ku_leuven",
+    "name": "KU Leuven",
+    "url": "https://wms.cs.kuleuven.be/cs/english",
+    "location": "BE"
+  },
+  {
+    "id": "school_kansas_state_university",
+    "name": "Kansas State University",
+    "url": "https://www.cs.ksu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_karlsruhe_inst_of_technology",
+    "name": "Karlsruhe Inst. of Technology",
+    "url": "https://www.informatik.kit.edu/english/",
+    "location": "DE"
+  },
+  {
+    "id": "school_kempelen_institute_kinit",
+    "name": "Kempelen Institute - KInIT",
+    "url": "https://kinit.sk",
+    "location": "SK"
+  },
+  {
+    "id": "school_kennesaw_state_university",
+    "name": "Kennesaw State University",
+    "url": "https://ccse.kennesaw.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_kent_state_university",
+    "name": "Kent State University",
+    "url": "https://www.kent.edu/cs",
+    "location": "US"
+  },
+  {
+    "id": "school_king_s_college_london",
+    "name": "King's College London",
+    "url": "https://www.kcl.ac.uk/informatics",
+    "location": "GB"
+  },
+  {
+    "id": "school_ko_university",
+    "name": "Koç University",
+    "url": "https://mysite.ku.edu.tr",
+    "location": "TR"
+  },
+  {
+    "id": "school_liu_post",
+    "name": "LIU Post",
+    "url": "https://liu.edu/post/academics/school-of-computer-science-and-innovation",
+    "location": "US"
+  },
+  {
+    "id": "school_lmu_munich",
+    "name": "LMU Munich",
+    "url": "https://www.ifi.lmu.de/",
+    "location": "DE"
+  },
+  {
+    "id": "school_lancaster_university",
+    "name": "Lancaster University",
+    "url": "https://www.lancaster.ac.uk/scc/",
+    "location": "GB"
+  },
+  {
+    "id": "school_lehigh_university",
+    "name": "Lehigh University",
+    "url": "https://engineering.lehigh.edu/cse",
+    "location": "US"
+  },
+  {
+    "id": "school_leiden_university",
+    "name": "Leiden University",
+    "url": "https://liacs.leidenuniv.nl/",
+    "location": "NL"
+  },
+  {
+    "id": "school_loughborough_university",
+    "name": "Loughborough University",
+    "url": "https://www.lboro.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_louisiana_state_university",
+    "name": "Louisiana State University",
+    "url": "https://www.lsu.edu/eng/cse/",
+    "location": "US"
+  },
+  {
+    "id": "school_louisiana_tech_university",
+    "name": "Louisiana Tech University",
+    "url": "https://coes.latech.edu/undergraduate-programs/computer-science/",
+    "location": "US"
+  },
+  {
+    "id": "school_lund_university",
+    "name": "Lund University",
+    "url": "https://cs.lth.se",
+    "location": "SE"
+  },
+  {
+    "id": "school_maastricht_university",
+    "name": "Maastricht University",
+    "url": "https://dke.maastrichtuniversity.nl",
+    "location": "NL"
+  },
+  {
+    "id": "school_malm_university",
+    "name": "Malmö University",
+    "url": "https://mau.se",
+    "location": "SE"
+  },
+  {
+    "id": "school_masaryk_university",
+    "name": "Masaryk University",
+    "url": "https://www.muni.cz",
+    "location": "CZ"
+  },
+  {
+    "id": "school_massachusetts_inst_of_technology",
+    "name": "Massachusetts Inst. of Technology",
+    "url": "https://www.eecs.mit.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_max_planck_society",
+    "name": "Max Planck Society",
+    "url": "https://www.mpi-inf.mpg.de/",
+    "location": "DE"
+  },
+  {
+    "id": "school_maynooth_university",
+    "name": "Maynooth University",
+    "url": "https://www.maynoothuniversity.ie/computer-science",
+    "location": "IE"
+  },
+  {
+    "id": "school_michigan_state_university",
+    "name": "Michigan State University",
+    "url": "https://www.cse.msu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_michigan_technological_university",
+    "name": "Michigan Technological University",
+    "url": "https://www.mtu.edu/cs/",
+    "location": "US"
+  },
+  {
+    "id": "school_middle_east_technical_university",
+    "name": "Middle East Technical University",
+    "url": "https://user.ceng.metu.edu.tr",
+    "location": "TR"
+  },
+  {
+    "id": "school_middlesex_university",
+    "name": "Middlesex University",
+    "url": "https://www.mdx.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_mississippi_state_university",
+    "name": "Mississippi State University",
+    "url": "https://www.cse.msstate.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_missouri_s_t",
+    "name": "Missouri S&T",
+    "url": "https://cs.mst.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_montana_state_university",
+    "name": "Montana State University",
+    "url": "https://www.cs.montana.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_m_lardalen_university",
+    "name": "Mälardalen University",
+    "url": "https://www.es.mdh.se",
+    "location": "SE"
+  },
+  {
+    "id": "school_njit",
+    "name": "NJIT",
+    "url": "https://cs.njit.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_ntnu",
+    "name": "NTNU",
+    "url": "https://www.ntnu.edu/idi",
+    "location": "NO"
+  },
+  {
+    "id": "school_ntua",
+    "name": "NTUA",
+    "url": "https://www.ece.ntua.gr",
+    "location": "GR"
+  },
+  {
+    "id": "school_naval_postgraduate_school",
+    "name": "Naval Postgraduate School",
+    "url": "https://nps.edu/web/cs",
+    "location": "US"
+  },
+  {
+    "id": "school_new_mexico_state_university",
+    "name": "New Mexico State University",
+    "url": "https://www.cs.nmsu.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_new_mexico_tech",
+    "name": "New Mexico Tech",
+    "url": "https://www.nmt.edu/academics/compsci/index.php",
+    "location": "US"
+  },
+  {
+    "id": "school_new_york_tech",
+    "name": "New York Tech",
+    "url": "https://www.nyit.edu/academics/engineering-and-computing-sciences/computer-science/",
+    "location": "US"
+  },
+  {
+    "id": "school_new_york_university",
+    "name": "New York University",
+    "url": "https://cs.nyu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_newcastle_university",
+    "name": "Newcastle University",
+    "url": "https://www.ncl.ac.uk/computing/",
+    "location": "GB"
+  },
+  {
+    "id": "school_north_carolina_state_university",
+    "name": "North Carolina State University",
+    "url": "https://csc.ncsu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_north_dakota_state_university",
+    "name": "North Dakota State University",
+    "url": "https://www.cs.ndsu.nodak.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_northeastern_university",
+    "name": "Northeastern University",
+    "url": "https://www.khoury.northeastern.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_northern_arizona_university",
+    "name": "Northern Arizona University",
+    "url": "https://nau.edu/school-informatics-computing-cyber-systems/",
+    "location": "US"
+  },
+  {
+    "id": "school_northumbria_university",
+    "name": "Northumbria University",
+    "url": "https://www.northumbria.ac.uk/about-us/our-schools/school-of-computer-science/citizen-centred-artificial-intelligence/apply-for-a-phd/",
+    "location": "UK"
+  },
+  {
+    "id": "school_northwestern_university",
+    "name": "Northwestern University",
+    "url": "https://www.mccormick.northwestern.edu/computer-science/",
+    "location": "US"
+  },
+  {
+    "id": "school_nova_southeastern_university",
+    "name": "Nova Southeastern University",
+    "url": "https://cec.nova.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_ohsu",
+    "name": "OHSU",
+    "url": "https://www.ohsu.edu/school-of-medicine/medical-informatics-and-clinical-epidemiology",
+    "location": "US"
+  },
+  {
+    "id": "school_oakland_university",
+    "name": "Oakland University",
+    "url": "https://www.oakland.edu/secs/departments/cse/",
+    "location": "US"
+  },
+  {
+    "id": "school_ohio_state_university",
+    "name": "Ohio State University",
+    "url": "https://cse.osu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_ohio_university",
+    "name": "Ohio University",
+    "url": "https://www.ohio.edu/engineering/eecs",
+    "location": "US"
+  },
+  {
+    "id": "school_oklahoma_state_university",
+    "name": "Oklahoma State University",
+    "url": "https://cs.okstate.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_old_dominion_university",
+    "name": "Old Dominion University",
+    "url": "https://www.cs.odu.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_open_university_nl",
+    "name": "Open University NL",
+    "url": "https://www.ou.nl/en/onderzoeksgebied-informatica-promoveren",
+    "location": "NL"
+  },
+  {
+    "id": "school_open_university_uk",
+    "name": "Open University UK",
+    "url": "https://stem.open.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_oregon_state_university",
+    "name": "Oregon State University",
+    "url": "https://eecs.oregonstate.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_paderborn_university",
+    "name": "Paderborn University",
+    "url": "https://cs.uni-paderborn.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_pennsylvania_state_university",
+    "name": "Pennsylvania State University",
+    "url": "https://www.eecs.psu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_politecnico_di_milano",
+    "name": "Politecnico di Milano",
+    "url": "https://www.deib.polimi.it/eng/home-page",
+    "location": "IT"
+  },
+  {
+    "id": "school_politecnico_di_torino",
+    "name": "Politecnico di Torino",
+    "url": "https://www.dauin.polito.it/",
+    "location": "IT"
+  },
+  {
+    "id": "school_polytechnic_univ_of_catalonia",
+    "name": "Polytechnic Univ. of Catalonia",
+    "url": "https://www.cs.upc.edu/",
+    "location": "ES"
+  },
+  {
+    "id": "school_portland_state_university",
+    "name": "Portland State University",
+    "url": "https://web.cecs.pdx.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_princeton_university",
+    "name": "Princeton University",
+    "url": "https://www.cs.princeton.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_purdue_university",
+    "name": "Purdue University",
+    "url": "https://www.cs.purdue.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_queen_mary_university_of_london",
+    "name": "Queen Mary University of London",
+    "url": "https://www.qmul.ac.uk/eecs/",
+    "location": "GB"
+  },
+  {
+    "id": "school_queen_s_university_belfast",
+    "name": "Queen's University Belfast",
+    "url": "https://www.qub.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_rwth_aachen_university",
+    "name": "RWTH Aachen University",
+    "url": "https://www.informatik.rwth-aachen.de/",
+    "location": "DE"
+  },
+  {
+    "id": "school_radboud_university",
+    "name": "Radboud University",
+    "url": "https://www.cs.ru.nl",
+    "location": "NL"
+  },
+  {
+    "id": "school_rensselaer_polytechnic_institute",
+    "name": "Rensselaer Polytechnic Institute",
+    "url": "https://compsci.rpi.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_rice_university",
+    "name": "Rice University",
+    "url": "https://cs.rice.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_rochester_inst_of_technology",
+    "name": "Rochester Inst. of Technology",
+    "url": "https://www.rit.edu/computing/department-computer-science",
+    "location": "US"
+  },
+  {
+    "id": "school_royal_holloway_univ_of_london",
+    "name": "Royal Holloway Univ. of London",
+    "url": "https://pure.royalholloway.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_ruhr_university_bochum",
+    "name": "Ruhr-University Bochum",
+    "url": "https://www.ini.rub.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_rutgers_university",
+    "name": "Rutgers University",
+    "url": "https://www.cs.rutgers.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_siu_carbondale",
+    "name": "SIU Carbondale",
+    "url": "https://www2.cs.siu.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_saarland_university",
+    "name": "Saarland University",
+    "url": "https://www.uni-saarland.de/en/department/computer-science.html",
+    "location": "DE"
+  },
+  {
+    "id": "school_sabanc_university",
+    "name": "Sabancı University",
+    "url": "https://cs.sabanciuniv.edu/",
+    "location": "TR"
+  },
+  {
+    "id": "school_santa_clara_university",
+    "name": "Santa Clara University",
+    "url": "https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/",
+    "location": "US"
+  },
+  {
+    "id": "school_sapienza_university_of_rome",
+    "name": "Sapienza University of Rome",
+    "url": "https://www.diag.uniroma1.it/en",
+    "location": "IT"
+  },
+  {
+    "id": "school_scuola_superiore_sant_anna",
+    "name": "Scuola Superiore Sant'Anna",
+    "url": "https://retis.sssup.it",
+    "location": "IT"
+  },
+  {
+    "id": "school_simula_uib",
+    "name": "Simula UiB",
+    "url": "https://www.simula.no/research/projects/simula-uib",
+    "location": "NO"
+  },
+  {
+    "id": "school_southern_methodist_university",
+    "name": "Southern Methodist University",
+    "url": "https://www.smu.edu/lyle/departments/cs",
+    "location": "US"
+  },
+  {
+    "id": "school_stanford_university",
+    "name": "Stanford University",
+    "url": "https://www.cs.stanford.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_stevens_institute_of_technology",
+    "name": "Stevens Institute of Technology",
+    "url": "https://www.cs.stevens.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_stony_brook_university",
+    "name": "Stony Brook University",
+    "url": "https://www.cs.stonybrook.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_syracuse_university",
+    "name": "Syracuse University",
+    "url": "https://ecs.syracuse.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_thws",
+    "name": "THWS",
+    "url": "https://fiw.thws.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_tobb_et",
+    "name": "TOBB ETÜ",
+    "url": "https://www.etu.edu.tr",
+    "location": "TR"
+  },
+  {
+    "id": "school_tti_chicago",
+    "name": "TTI Chicago",
+    "url": "https://ttic.uchicago.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_tu_berlin",
+    "name": "TU Berlin",
+    "url": "https://www.tu.berlin/en/eecs",
+    "location": "DE"
+  },
+  {
+    "id": "school_tu_braunschweig",
+    "name": "TU Braunschweig",
+    "url": "https://www.ibr.cs.tu-bs.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_tu_chemnitz",
+    "name": "TU Chemnitz",
+    "url": "https://www.tu-chemnitz.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_tu_clausthal",
+    "name": "TU Clausthal",
+    "url": "https://www.isse.tu-clausthal.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_tu_crete",
+    "name": "TU Crete",
+    "url": "https://www.ece.tuc.gr/en/home",
+    "location": "GR"
+  },
+  {
+    "id": "school_tu_darmstadt",
+    "name": "TU Darmstadt",
+    "url": "https://www.informatik.tu-darmstadt.de/",
+    "location": "DE"
+  },
+  {
+    "id": "school_tu_delft",
+    "name": "TU Delft",
+    "url": "https://www.tudelft.nl/en/eemcs",
+    "location": "NL"
+  },
+  {
+    "id": "school_tu_dortmund",
+    "name": "TU Dortmund",
+    "url": "https://ls4-www.cs.tu-dortmund.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_tu_dresden",
+    "name": "TU Dresden",
+    "url": "https://tu-dresden.de/ing/informatik",
+    "location": "DE"
+  },
+  {
+    "id": "school_tu_eindhoven",
+    "name": "TU Eindhoven",
+    "url": "https://www.win.tue.nl",
+    "location": "NL"
+  },
+  {
+    "id": "school_tu_freiberg",
+    "name": "TU Freiberg",
+    "url": "https://tu-freiberg.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_tu_ilmenau",
+    "name": "TU Ilmenau",
+    "url": "https://www.tu-ilmenau.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_tu_kaiserslautern",
+    "name": "TU Kaiserslautern",
+    "url": "https://anthonywlin.github.io",
+    "location": "DE"
+  },
+  {
+    "id": "school_tu_munich",
+    "name": "TU Munich",
+    "url": "https://www.cs.cit.tum.de/en/cs/home/",
+    "location": "DE"
+  },
+  {
+    "id": "school_tu_wien",
+    "name": "TU Wien",
+    "url": "https://informatics.tuwien.ac.at/",
+    "location": "AT"
+  },
+  {
+    "id": "school_tallinn_university_of_technology",
+    "name": "Tallinn University of Technology",
+    "url": "https://taltech.ee/en/school-of-information-technologies",
+    "location": "EE"
+  },
+  {
+    "id": "school_tampere_university",
+    "name": "Tampere University",
+    "url": "https://www.tuni.fi",
+    "location": "FI"
+  },
+  {
+    "id": "school_technion",
+    "name": "Technion",
+    "url": "https://www.cs.technion.ac.il/",
+    "location": "IL"
+  },
+  {
+    "id": "school_tel_aviv_university",
+    "name": "Tel Aviv University",
+    "url": "https://en-exact-sciences.tau.ac.il/computer",
+    "location": "IL"
+  },
+  {
+    "id": "school_temple_university",
+    "name": "Temple University",
+    "url": "https://cis.temple.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_texas_a_m_university",
+    "name": "Texas A&M University",
+    "url": "https://engineering.tamu.edu/cse/",
+    "location": "US"
+  },
+  {
+    "id": "school_texas_state_university",
+    "name": "Texas State University",
+    "url": "https://www.cs.txstate.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_texas_tech_university",
+    "name": "Texas Tech University",
+    "url": "https://www.depts.ttu.edu/cs/",
+    "location": "US"
+  },
+  {
+    "id": "school_the_university_of_alabama",
+    "name": "The University of Alabama",
+    "url": "https://cs.ua.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_tilburg_university",
+    "name": "Tilburg University",
+    "url": "https://www.tilburguniversity.edu/about/schools/tshd/departments/dca",
+    "location": "NL"
+  },
+  {
+    "id": "school_towson_university",
+    "name": "Towson University",
+    "url": "https://www.towson.edu/fcsm/departments/computerinfosci/",
+    "location": "US"
+  },
+  {
+    "id": "school_trinity_college_dublin",
+    "name": "Trinity College Dublin",
+    "url": "https://www.scss.tcd.ie",
+    "location": "IE"
+  },
+  {
+    "id": "school_tufts_university",
+    "name": "Tufts University",
+    "url": "https://engineering.tufts.edu/cs/",
+    "location": "US"
+  },
+  {
+    "id": "school_tulane_university",
+    "name": "Tulane University",
+    "url": "https://www.cs.tulane.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_uccs",
+    "name": "UCCS",
+    "url": "https://www.cs.uccs.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_unc_charlotte",
+    "name": "UNC - Charlotte",
+    "url": "https://cci.charlotte.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_unc_greensboro",
+    "name": "UNC - Greensboro",
+    "url": "https://compsci.uncg.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_uit_the_arctic_univ_of_norway",
+    "name": "UiT The Arctic Univ. of Norway",
+    "url": "https://uit.no",
+    "location": "NO"
+  },
+  {
+    "id": "school_univ_of_arkansas_little_rock",
+    "name": "Univ. of Arkansas - Little Rock",
+    "url": "https://ualr.edu/computerscience/",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_california_berkeley",
+    "name": "Univ. of California - Berkeley",
+    "url": "https://eecs.berkeley.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_california_davis",
+    "name": "Univ. of California - Davis",
+    "url": "https://cs.ucdavis.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_california_irvine",
+    "name": "Univ. of California - Irvine",
+    "url": "https://cs.ics.uci.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_california_los_angeles",
+    "name": "Univ. of California - Los Angeles",
+    "url": "https://www.cs.ucla.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_california_merced",
+    "name": "Univ. of California - Merced",
+    "url": "https://engineering.ucmerced.edu/departments/computer-science-engineering-cse",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_california_riverside",
+    "name": "Univ. of California - Riverside",
+    "url": "https://www.cs.ucr.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_california_san_diego",
+    "name": "Univ. of California - San Diego",
+    "url": "https://cse.ucsd.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_california_santa_barbara",
+    "name": "Univ. of California - Santa Barbara",
+    "url": "https://cs.ucsb.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_california_santa_cruz",
+    "name": "Univ. of California - Santa Cruz",
+    "url": "https://engineering.ucsc.edu/departments/computer-science-and-engineering/",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_illinois_at_urbana_champaign",
+    "name": "Univ. of Illinois at Urbana-Champaign",
+    "url": "https://siebelschool.illinois.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_louisiana_lafayette",
+    "name": "Univ. of Louisiana - Lafayette",
+    "url": "https://computing.louisiana.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_maryland_baltimore_county",
+    "name": "Univ. of Maryland - Baltimore County",
+    "url": "https://www.csee.umbc.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_maryland_college_park",
+    "name": "Univ. of Maryland - College Park",
+    "url": "https://www.cs.umd.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_massachusetts_amherst",
+    "name": "Univ. of Massachusetts Amherst",
+    "url": "https://www.cics.umass.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_missouri_kansas_city",
+    "name": "Univ. of Missouri - Kansas City",
+    "url": "https://sse.umkc.edu/academics/programs/computer-science-and-information-technology.html",
+    "location": "US"
+  },
+  {
+    "id": "school_univ_of_modena_and_reggio_emilia",
+    "name": "Univ. of Modena and Reggio Emilia",
+    "url": "https://personale.unimore.it",
+    "location": "IT"
+  },
+  {
+    "id": "school_univ_of_wisconsin_milwaukee",
+    "name": "Univ. of Wisconsin - Milwaukee",
+    "url": "https://uwm.edu/engineering/departments/computer-science/",
+    "location": "US"
+  },
+  {
+    "id": "school_universidad_rey_juan_carlos",
+    "name": "Universidad Rey Juan Carlos",
+    "url": "https://www.tsc.urjc.es",
+    "location": "ES"
+  },
+  {
+    "id": "school_universidad_de_zaragoza",
+    "name": "Universidad de Zaragoza",
+    "url": "https://webdiis.unizar.es",
+    "location": "ES"
+  },
+  {
+    "id": "school_universidade_nova_de_lisboa",
+    "name": "Universidade NOVA de Lisboa",
+    "url": "https://userweb.fct.unl.pt",
+    "location": "PT"
+  },
+  {
+    "id": "school_universidade_de_lisboa",
+    "name": "Universidade de Lisboa",
+    "url": "https://dei.tecnico.ulisboa.pt/en/",
+    "location": "PT"
+  },
+  {
+    "id": "school_university_college_dublin",
+    "name": "University College Dublin",
+    "url": "https://www.ucd.ie/cs/",
+    "location": "IE"
+  },
+  {
+    "id": "school_university_college_london",
+    "name": "University College London",
+    "url": "https://www.ucl.ac.uk/computer-science/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_at_albany_suny",
+    "name": "University at Albany - SUNY",
+    "url": "https://www.albany.edu/computer-science",
+    "location": "US"
+  },
+  {
+    "id": "school_university_at_buffalo",
+    "name": "University at Buffalo",
+    "url": "https://cse.buffalo.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_a_coru_a",
+    "name": "University of A Coruña",
+    "url": "https://pdi.udc.es",
+    "location": "ES"
+  },
+  {
+    "id": "school_university_of_aberdeen",
+    "name": "University of Aberdeen",
+    "url": "https://www.abdn.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_alabama_birmingham",
+    "name": "University of Alabama - Birmingham",
+    "url": "https://www.uab.edu/cas/computerscience/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_alabama_huntsville",
+    "name": "University of Alabama - Huntsville",
+    "url": "https://www.uah.edu/science/departments/computer-science",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_amsterdam",
+    "name": "University of Amsterdam",
+    "url": "https://ivi.uva.nl/",
+    "location": "NL"
+  },
+  {
+    "id": "school_university_of_antwerp",
+    "name": "University of Antwerp",
+    "url": "https://www.uantwerpen.be",
+    "location": "BE"
+  },
+  {
+    "id": "school_university_of_arizona",
+    "name": "University of Arizona",
+    "url": "https://www.cs.arizona.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_arkansas",
+    "name": "University of Arkansas",
+    "url": "https://www.csce.uark.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_athens",
+    "name": "University of Athens",
+    "url": "https://cgi.di.uoa.gr",
+    "location": "GR"
+  },
+  {
+    "id": "school_university_of_augsburg",
+    "name": "University of Augsburg",
+    "url": "https://www.uni-augsburg.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_bamberg",
+    "name": "University of Bamberg",
+    "url": "https://www.uni-bamberg.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_basel",
+    "name": "University of Basel",
+    "url": "https://dmi.unibas.ch",
+    "location": "CH"
+  },
+  {
+    "id": "school_university_of_bath",
+    "name": "University of Bath",
+    "url": "https://www.bath.ac.uk/departments/department-of-computer-science/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_bayreuth",
+    "name": "University of Bayreuth",
+    "url": "https://www.ai2.uni-bayreuth.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_bergen",
+    "name": "University of Bergen",
+    "url": "https://www.ii.uib.no",
+    "location": "NO"
+  },
+  {
+    "id": "school_university_of_bern",
+    "name": "University of Bern",
+    "url": "https://www.iam.unibe.ch",
+    "location": "CH"
+  },
+  {
+    "id": "school_university_of_birmingham",
+    "name": "University of Birmingham",
+    "url": "https://www.birmingham.ac.uk/schools/computer-science/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_bonn",
+    "name": "University of Bonn",
+    "url": "https://www.informatik.uni-bonn.de/en",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_bremen",
+    "name": "University of Bremen",
+    "url": "https://www.informatik.uni-bremen.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_bristol",
+    "name": "University of Bristol",
+    "url": "https://www.bristol.ac.uk/engineering/schools/computer-science/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_cagliari",
+    "name": "University of Cagliari",
+    "url": "https://web.unica.it/unica/en/dip_matinfo.page",
+    "location": "IT"
+  },
+  {
+    "id": "school_university_of_cambridge",
+    "name": "University of Cambridge",
+    "url": "https://www.cst.cam.ac.uk/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_catania",
+    "name": "University of Catania",
+    "url": "https://www.dmi.unict.it",
+    "location": "IT"
+  },
+  {
+    "id": "school_university_of_central_florida",
+    "name": "University of Central Florida",
+    "url": "https://www.cs.ucf.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_chicago",
+    "name": "University of Chicago",
+    "url": "https://computerscience.uchicago.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_cincinnati",
+    "name": "University of Cincinnati",
+    "url": "https://www.ceas.uc.edu/academics/departments/computer-science.html",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_cologne",
+    "name": "University of Cologne",
+    "url": "https://cs.uni-koeln.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_colorado_denver",
+    "name": "University of Colorado - Denver",
+    "url": "https://engineering.ucdenver.edu/departments/computer-science-and-engineering",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_colorado_boulder",
+    "name": "University of Colorado Boulder",
+    "url": "https://www.colorado.edu/cs/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_connecticut",
+    "name": "University of Connecticut",
+    "url": "https://computing.engineering.uconn.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_copenhagen",
+    "name": "University of Copenhagen",
+    "url": "https://di.ku.dk/english/",
+    "location": "DK"
+  },
+  {
+    "id": "school_university_of_crete",
+    "name": "University of Crete",
+    "url": "https://www.csd.uoc.gr",
+    "location": "GR"
+  },
+  {
+    "id": "school_university_of_delaware",
+    "name": "University of Delaware",
+    "url": "https://www.cis.udel.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_denver",
+    "name": "University of Denver",
+    "url": "https://ritchieschool.du.edu/computer-science",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_duisburg_essen",
+    "name": "University of Duisburg-Essen",
+    "url": "https://www.uni-due.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_dundee",
+    "name": "University of Dundee",
+    "url": "https://www.computing.dundee.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_d_sseldorf",
+    "name": "University of Düsseldorf",
+    "url": "https://www.cs.hhu.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_edinburgh",
+    "name": "University of Edinburgh",
+    "url": "https://informatics.ed.ac.uk/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_erlangen_nuremberg",
+    "name": "University of Erlangen–Nuremberg",
+    "url": "https://lme.tf.fau.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_essex",
+    "name": "University of Essex",
+    "url": "https://www.essex.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_exeter",
+    "name": "University of Exeter",
+    "url": "https://computerscience.exeter.ac.uk/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_florida",
+    "name": "University of Florida",
+    "url": "https://cise.ufl.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_freiburg",
+    "name": "University of Freiburg",
+    "url": "https://www.informatik.uni-freiburg.de/",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_fribourg",
+    "name": "University of Fribourg",
+    "url": "https://www.unifr.ch",
+    "location": "CH"
+  },
+  {
+    "id": "school_university_of_geneva",
+    "name": "University of Geneva",
+    "url": "https://www.unige.ch/dinfo/en/",
+    "location": "CH"
+  },
+  {
+    "id": "school_university_of_georgia",
+    "name": "University of Georgia",
+    "url": "https://cobweb.cs.uga.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_glasgow",
+    "name": "University of Glasgow",
+    "url": "https://www.gla.ac.uk/schools/computing/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_groningen",
+    "name": "University of Groningen",
+    "url": "https://www.rug.nl",
+    "location": "NL"
+  },
+  {
+    "id": "school_university_of_g_ttingen",
+    "name": "University of Göttingen",
+    "url": "https://www.uni-goettingen.de/en/institute+of+computer+science/619480.html",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_haifa",
+    "name": "University of Haifa",
+    "url": "https://cs.haifa.ac.il/",
+    "location": "IL"
+  },
+  {
+    "id": "school_university_of_halle_wittenberg",
+    "name": "University of Halle-Wittenberg",
+    "url": "https://www.informatik.uni-halle.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_hamburg",
+    "name": "University of Hamburg",
+    "url": "https://www.inf.uni-hamburg.de/en.html",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_hannover",
+    "name": "University of Hannover",
+    "url": "https://www.tnt.uni-hannover.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_hawaii_at_manoa",
+    "name": "University of Hawaii at Manoa",
+    "url": "https://www.ics.hawaii.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_helsinki",
+    "name": "University of Helsinki",
+    "url": "https://www.helsinki.fi/en/faculty-science/faculty/computer-science",
+    "location": "FI"
+  },
+  {
+    "id": "school_university_of_hildesheim",
+    "name": "University of Hildesheim",
+    "url": "https://www.uni-hildesheim.de/en/fb4/institute/ifi/",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_houston",
+    "name": "University of Houston",
+    "url": "https://www2.cs.uh.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_idaho",
+    "name": "University of Idaho",
+    "url": "https://www.uidaho.edu/engr/departments/cs",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_illinois_at_chicago",
+    "name": "University of Illinois at Chicago",
+    "url": "https://www.cs.uic.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_innsbruck",
+    "name": "University of Innsbruck",
+    "url": "https://www.uibk.ac.at/en/informatik/",
+    "location": "AT"
+  },
+  {
+    "id": "school_university_of_ioannina",
+    "name": "University of Ioannina",
+    "url": "https://cs.uoi.gr",
+    "location": "GR"
+  },
+  {
+    "id": "school_university_of_iowa",
+    "name": "University of Iowa",
+    "url": "https://cs.uiowa.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_kansas",
+    "name": "University of Kansas",
+    "url": "https://eecs.ku.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_kassel",
+    "name": "University of Kassel",
+    "url": "https://www.uni-kassel.de/eecs/en",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_kent",
+    "name": "University of Kent",
+    "url": "https://www.cs.kent.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_kentucky",
+    "name": "University of Kentucky",
+    "url": "https://cs.engr.uky.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_kiel",
+    "name": "University of Kiel",
+    "url": "https://www.zs.informatik.uni-kiel.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_klagenfurt",
+    "name": "University of Klagenfurt",
+    "url": "https://www.aau.at/en/tewi/",
+    "location": "AT"
+  },
+  {
+    "id": "school_university_of_koblenz_landau",
+    "name": "University of Koblenz-Landau",
+    "url": "https://www.uni-koblenz.de/en/computer-science",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_konstanz",
+    "name": "University of Konstanz",
+    "url": "https://www.informatik.uni-konstanz.de/en/",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_l_aquila",
+    "name": "University of L'Aquila",
+    "url": "https://www.disim.univaq.it/",
+    "location": "IT"
+  },
+  {
+    "id": "school_university_of_latvia",
+    "name": "University of Latvia",
+    "url": "https://www.lu.lv/en/about-us/structure/institutes/ul-institute-of-mathematics-and-computer-science/",
+    "location": "LV"
+  },
+  {
+    "id": "school_university_of_leeds",
+    "name": "University of Leeds",
+    "url": "https://eps.leeds.ac.uk/computing",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_leipzig",
+    "name": "University of Leipzig",
+    "url": "https://www.informatik.uni-leipzig.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_liverpool",
+    "name": "University of Liverpool",
+    "url": "https://www.liverpool.ac.uk/computer-science/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_louisville",
+    "name": "University of Louisville",
+    "url": "https://engineering.louisville.edu/academics/departments/computer/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_luxembourg",
+    "name": "University of Luxembourg",
+    "url": "https://wwwen.uni.lu",
+    "location": "LU"
+  },
+  {
+    "id": "school_university_of_l_beck",
+    "name": "University of Lübeck",
+    "url": "https://www.imis.uni-luebeck.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_magdeburg",
+    "name": "University of Magdeburg",
+    "url": "https://isgwww.cs.uni-magdeburg.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_maine",
+    "name": "University of Maine",
+    "url": "https://umaine.edu/cs/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_mainz",
+    "name": "University of Mainz",
+    "url": "https://www.cs.uni-mainz.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_malta",
+    "name": "University of Malta",
+    "url": "https://www.um.edu.mt/ict/cs/",
+    "location": "MT"
+  },
+  {
+    "id": "school_university_of_manchester",
+    "name": "University of Manchester",
+    "url": "https://www.cs.manchester.ac.uk/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_mannheim",
+    "name": "University of Mannheim",
+    "url": "https://www.wim.uni-mannheim.de/en/",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_marburg",
+    "name": "University of Marburg",
+    "url": "https://www.uni-marburg.de/en/fb12",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_massachusetts_boston",
+    "name": "University of Massachusetts Boston",
+    "url": "https://www.cs.umb.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_massachusetts_lowell",
+    "name": "University of Massachusetts Lowell",
+    "url": "https://www.uml.edu/sciences/computer-science/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_memphis",
+    "name": "University of Memphis",
+    "url": "https://www.memphis.edu/cs/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_miami",
+    "name": "University of Miami",
+    "url": "https://www.cs.miami.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_michigan",
+    "name": "University of Michigan",
+    "url": "https://cse.engin.umich.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_michigan_dearborn",
+    "name": "University of Michigan-Dearborn",
+    "url": "https://umdearborn.edu/cecs/departments/computer-and-information-science",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_michigan_flint",
+    "name": "University of Michigan-Flint",
+    "url": "https://www.umflint.edu/cit/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_minnesota",
+    "name": "University of Minnesota",
+    "url": "https://cse.umn.edu/cs",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_mississippi",
+    "name": "University of Mississippi",
+    "url": "https://cs.olemiss.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_missouri",
+    "name": "University of Missouri",
+    "url": "https://engineering.missouri.edu/departments/eecs/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_molise",
+    "name": "University of Molise",
+    "url": "https://docenti.unimol.it",
+    "location": "IT"
+  },
+  {
+    "id": "school_university_of_murcia",
+    "name": "University of Murcia",
+    "url": "https://webs.um.es",
+    "location": "ES"
+  },
+  {
+    "id": "school_university_of_m_nster",
+    "name": "University of Münster",
+    "url": "https://www.uni-muenster.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_nebraska",
+    "name": "University of Nebraska",
+    "url": "https://cse.unl.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_nebraska_omaha",
+    "name": "University of Nebraska - Omaha",
+    "url": "https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/index.php",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_nevada",
+    "name": "University of Nevada",
+    "url": "https://www.cse.unr.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_nevada_las_vegas",
+    "name": "University of Nevada Las Vegas",
+    "url": "https://www.unlv.edu/cs",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_new_hampshire",
+    "name": "University of New Hampshire",
+    "url": "https://www.cs.unh.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_new_mexico",
+    "name": "University of New Mexico",
+    "url": "https://www.cs.unm.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_new_orleans",
+    "name": "University of New Orleans",
+    "url": "https://www.uno.edu/academics/cos/computer-science",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_nicosia",
+    "name": "University of Nicosia",
+    "url": "https://www.unic.ac.cy",
+    "location": "CY"
+  },
+  {
+    "id": "school_university_of_north_carolina",
+    "name": "University of North Carolina",
+    "url": "https://cs.unc.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_north_texas",
+    "name": "University of North Texas",
+    "url": "https://www.cse.unt.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_notre_dame",
+    "name": "University of Notre Dame",
+    "url": "https://cse.nd.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_nottingham",
+    "name": "University of Nottingham",
+    "url": "https://www.nottingham.ac.uk/computerscience/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_oklahoma",
+    "name": "University of Oklahoma",
+    "url": "https://www.ou.edu/coe/cs",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_oldenburg",
+    "name": "University of Oldenburg",
+    "url": "https://uol.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_oregon",
+    "name": "University of Oregon",
+    "url": "https://scds.uoregon.edu/cs",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_osnabr_ck",
+    "name": "University of Osnabrück",
+    "url": "https://www.informatik.uni-osnabrueck.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_oxford",
+    "name": "University of Oxford",
+    "url": "https://www.cs.ox.ac.uk/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_padova",
+    "name": "University of Padova",
+    "url": "https://www.math.unipd.it",
+    "location": "IT"
+  },
+  {
+    "id": "school_university_of_passau",
+    "name": "University of Passau",
+    "url": "https://www.fim.uni-passau.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_patras",
+    "name": "University of Patras",
+    "url": "https://www.ceid.upatras.gr/en/home/",
+    "location": "GR"
+  },
+  {
+    "id": "school_university_of_pennsylvania",
+    "name": "University of Pennsylvania",
+    "url": "https://www.cis.upenn.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_piraeus",
+    "name": "University of Piraeus",
+    "url": "https://www.ds.unipi.gr",
+    "location": "GR"
+  },
+  {
+    "id": "school_university_of_pisa",
+    "name": "University of Pisa",
+    "url": "https://di.unipi.it/en/",
+    "location": "IT"
+  },
+  {
+    "id": "school_university_of_pittsburgh",
+    "name": "University of Pittsburgh",
+    "url": "https://www.cs.pitt.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_potsdam",
+    "name": "University of Potsdam",
+    "url": "https://www.uni-potsdam.de/en/cs",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_regensburg",
+    "name": "University of Regensburg",
+    "url": "https://www.uni-regensburg.de/en/informatics-data-science",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_rhode_island",
+    "name": "University of Rhode Island",
+    "url": "https://web.uri.edu/cs/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_rochester",
+    "name": "University of Rochester",
+    "url": "https://www.cs.rochester.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_rostock",
+    "name": "University of Rostock",
+    "url": "https://vcg.informatik.uni-rostock.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_salento",
+    "name": "University of Salento",
+    "url": "https://www.matfis.unisalento.it",
+    "location": "IT"
+  },
+  {
+    "id": "school_university_of_salerno",
+    "name": "University of Salerno",
+    "url": "https://www.unisa.it",
+    "location": "IT"
+  },
+  {
+    "id": "school_university_of_salzburg",
+    "name": "University of Salzburg",
+    "url": "https://www.cosy.sbg.ac.at",
+    "location": "AT"
+  },
+  {
+    "id": "school_university_of_sannio",
+    "name": "University of Sannio",
+    "url": "https://www.unisannio.it",
+    "location": "IT"
+  },
+  {
+    "id": "school_university_of_sheffield",
+    "name": "University of Sheffield",
+    "url": "https://www.sheffield.ac.uk/cs",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_siegen",
+    "name": "University of Siegen",
+    "url": "https://www.eti.uni-siegen.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_south_carolina",
+    "name": "University of South Carolina",
+    "url": "https://www.cse.sc.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_south_florida",
+    "name": "University of South Florida",
+    "url": "https://www.cse.usf.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_southampton",
+    "name": "University of Southampton",
+    "url": "https://www.ecs.soton.ac.uk/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_southern_california",
+    "name": "University of Southern California",
+    "url": "https://www.cs.usc.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_southern_mississippi",
+    "name": "University of Southern Mississippi",
+    "url": "https://www.usm.edu/computing-sciences-computer-engineering/index.php",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_st_andrews",
+    "name": "University of St Andrews",
+    "url": "https://www.st-andrews.ac.uk/computer-science/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_strathclyde",
+    "name": "University of Strathclyde",
+    "url": "https://pureportal.strath.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_stuttgart",
+    "name": "University of Stuttgart",
+    "url": "https://www.f05.uni-stuttgart.de/en/cs/",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_surrey",
+    "name": "University of Surrey",
+    "url": "https://www.surrey.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_sussex",
+    "name": "University of Sussex",
+    "url": "https://www.sussex.ac.uk",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_szeged",
+    "name": "University of Szeged",
+    "url": "https://www.inf.u-szeged.hu",
+    "location": "HU"
+  },
+  {
+    "id": "school_university_of_tartu",
+    "name": "University of Tartu",
+    "url": "https://cs.ut.ee/",
+    "location": "EE"
+  },
+  {
+    "id": "school_university_of_tennessee",
+    "name": "University of Tennessee",
+    "url": "https://web.eecs.utk.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_texas_el_paso",
+    "name": "University of Texas - El Paso",
+    "url": "https://www.utep.edu/cs/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_texas_at_arlington",
+    "name": "University of Texas at Arlington",
+    "url": "https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_texas_at_austin",
+    "name": "University of Texas at Austin",
+    "url": "https://www.cs.utexas.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_texas_at_dallas",
+    "name": "University of Texas at Dallas",
+    "url": "https://cs.utdallas.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_texas_at_san_antonio",
+    "name": "University of Texas at San Antonio",
+    "url": "https://www.cs.utsa.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_trento",
+    "name": "University of Trento",
+    "url": "https://disi.unitn.it",
+    "location": "IT"
+  },
+  {
+    "id": "school_university_of_trier",
+    "name": "University of Trier",
+    "url": "https://www.uni-trier.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_tulsa",
+    "name": "University of Tulsa",
+    "url": "https://engineering.utulsa.edu/computer-science/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_twente",
+    "name": "University of Twente",
+    "url": "https://www.utwente.nl/en/eemcs/",
+    "location": "NL"
+  },
+  {
+    "id": "school_university_of_t_bingen",
+    "name": "University of Tübingen",
+    "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/department/",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_udine",
+    "name": "University of Udine",
+    "url": "https://dmif.uniud.it/en/",
+    "location": "IT"
+  },
+  {
+    "id": "school_university_of_ulm",
+    "name": "University of Ulm",
+    "url": "https://www.uni-ulm.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_utah",
+    "name": "University of Utah",
+    "url": "https://www.cs.utah.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_vermont",
+    "name": "University of Vermont",
+    "url": "https://www.uvm.edu/cems/cs",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_verona",
+    "name": "University of Verona",
+    "url": "https://www.di.univr.it/?lang=en",
+    "location": "IT"
+  },
+  {
+    "id": "school_university_of_vienna",
+    "name": "University of Vienna",
+    "url": "https://informatik.univie.ac.at/en/",
+    "location": "AT"
+  },
+  {
+    "id": "school_university_of_virginia",
+    "name": "University of Virginia",
+    "url": "https://engineering.virginia.edu/department/computer-science",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_warsaw",
+    "name": "University of Warsaw",
+    "url": "https://www.mimuw.edu.pl/en/",
+    "location": "PL"
+  },
+  {
+    "id": "school_university_of_warwick",
+    "name": "University of Warwick",
+    "url": "https://warwick.ac.uk/fac/sci/dcs/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_washington",
+    "name": "University of Washington",
+    "url": "https://www.cs.washington.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_wisconsin_madison",
+    "name": "University of Wisconsin - Madison",
+    "url": "https://www.cs.wisc.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_wroclaw",
+    "name": "University of Wroclaw",
+    "url": "https://www.ii.uni.wroc.pl",
+    "location": "PL"
+  },
+  {
+    "id": "school_university_of_wuppertal",
+    "name": "University of Wuppertal",
+    "url": "https://www-num.math.uni-wuppertal.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_wyoming",
+    "name": "University of Wyoming",
+    "url": "https://www.uwyo.edu/cosc/department/index.html",
+    "location": "US"
+  },
+  {
+    "id": "school_university_of_w_rzburg",
+    "name": "University of Würzburg",
+    "url": "https://www.informatik.uni-wuerzburg.de",
+    "location": "DE"
+  },
+  {
+    "id": "school_university_of_york",
+    "name": "University of York",
+    "url": "https://www.york.ac.uk/computer-science/",
+    "location": "GB"
+  },
+  {
+    "id": "school_university_of_zurich",
+    "name": "University of Zurich",
+    "url": "https://www.ifi.uzh.ch/en.html",
+    "location": "CH"
+  },
+  {
+    "id": "school_universit_della_svizzera_italiana",
+    "name": "Università della Svizzera italiana",
+    "url": "https://search.usi.ch",
+    "location": "CH"
+  },
+  {
+    "id": "school_universit_jean_monnet",
+    "name": "Université Jean Monnet",
+    "url": "https://perso.univ-st-etienne.fr",
+    "location": "FR"
+  },
+  {
+    "id": "school_universit_paris_cit",
+    "name": "Université Paris Cité",
+    "url": "https://math-info.u-paris.fr/en/homepage/",
+    "location": "FR"
+  },
+  {
+    "id": "school_universit_paris_dauphine",
+    "name": "Université Paris Dauphine",
+    "url": "https://www.lamsade.dauphine.fr",
+    "location": "FR"
+  },
+  {
+    "id": "school_universit_de_mons",
+    "name": "Université de Mons",
+    "url": "https://web.umons.ac.be/fs-informatique/en/home/",
+    "location": "BE"
+  },
+  {
+    "id": "school_universit_libre_de_bruxelles",
+    "name": "Université libre de Bruxelles",
+    "url": "https://www.ulb.ac.be",
+    "location": "BE"
+  },
+  {
+    "id": "school_uppsala_university",
+    "name": "Uppsala University",
+    "url": "https://www.it.uu.se/",
+    "location": "SE"
+  },
+  {
+    "id": "school_utah_state_university",
+    "name": "Utah State University",
+    "url": "https://cs.usu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_utrecht_university",
+    "name": "Utrecht University",
+    "url": "https://www.uu.nl",
+    "location": "NL"
+  },
+  {
+    "id": "school_vu_amsterdam",
+    "name": "VU Amsterdam",
+    "url": "https://vu.nl/en/about-vu/faculties/faculty-of-science/departments/computer-science",
+    "location": "NL"
+  },
+  {
+    "id": "school_vanderbilt_university",
+    "name": "Vanderbilt University",
+    "url": "https://engineering.vanderbilt.edu/departments/computer-science/",
+    "location": "US"
+  },
+  {
+    "id": "school_virginia_commonwealth_university",
+    "name": "Virginia Commonwealth University",
+    "url": "https://egr.vcu.edu/departments/computer-science/",
+    "location": "US"
+  },
+  {
+    "id": "school_virginia_tech",
+    "name": "Virginia Tech",
+    "url": "https://cs.vt.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_washington_state_university",
+    "name": "Washington State University",
+    "url": "https://www.eecs.wsu.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_washington_university_in_st_louis",
+    "name": "Washington University in St. Louis",
+    "url": "https://cse.washu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_wayne_state_university",
+    "name": "Wayne State University",
+    "url": "https://www.cs.wayne.edu",
+    "location": "US"
+  },
+  {
+    "id": "school_weizmann_institute_of_science",
+    "name": "Weizmann Institute of Science",
+    "url": "https://www.weizmann.ac.il/math/",
+    "location": "IL"
+  },
+  {
+    "id": "school_west_virginia_university",
+    "name": "West Virginia University",
+    "url": "https://lcsee.statler.wvu.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_western_michigan_university",
+    "name": "Western Michigan University",
+    "url": "https://wmich.edu/cs",
+    "location": "US"
+  },
+  {
+    "id": "school_wichita_state_university",
+    "name": "Wichita State University",
+    "url": "https://www.wichita.edu/SoC",
+    "location": "US"
+  },
+  {
+    "id": "school_worcester_polytechnic_institute",
+    "name": "Worcester Polytechnic Institute",
+    "url": "https://www.wpi.edu/academics/departments/computer-science",
+    "location": "US"
+  },
+  {
+    "id": "school_yale_university",
+    "name": "Yale University",
+    "url": "https://cpsc.yale.edu/",
+    "location": "US"
+  },
+  {
+    "id": "school_y_ld_z_technical_university",
+    "name": "Yıldız Technical University",
+    "url": "https://www.ce.yildiz.edu.tr",
+    "location": "TR"
+  },
+  {
+    "id": "school_zye_in_university",
+    "name": "Özyeğin University",
+    "url": "https://cs.ozyegin.edu.tr/en",
+    "location": "TR"
+  }
+]

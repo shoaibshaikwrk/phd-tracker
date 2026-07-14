@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+functions/node_modules/
+firebase-debug.log
+.firebase/
+local_preview.html
+local_preview.pdf
+preview_page*.jpg
+.~lock.*
+*.tmp

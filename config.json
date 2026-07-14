@@ -1,0 +1,34 @@
+{
+  "keywords": [
+    "machine learning",
+    "artificial intelligence",
+    "deep learning",
+    "large language model",
+    "natural language processing",
+    "time series",
+    "neural network",
+    "computer vision",
+    "reinforcement learning",
+    "data science"
+  ],
+  "exclude_keywords": [
+    "masters only",
+    "undergraduate"
+  ],
+  "sources": {
+    "curated": true,
+    "jobsacuk": true,
+    "academictransfer": true,
+    "theunijobs": true,
+    "curated_professors": true,
+    "csrankings": true,
+    "schools": true
+  },
+  "output_csv": "data/phd_positions_found.csv",
+  "seen_jobs_file": "data/seen_positions.json",
+  "log_file": "data/run_log.txt",
+  "professors_file": "data/professors.json",
+  "schools_file": "data/schools.json",
+  "output_html": "local_preview.html",
+  "enable_auth": false
+}
