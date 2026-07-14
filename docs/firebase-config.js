@@ -21,12 +21,12 @@
 //      Authentication -> Settings -> Authorized domains.
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB0CfPFlbNeGu_jq12JjJcXIq3d9d5PBdU",
-  authDomain: "jobs-we-care-you.firebaseapp.com",
-  projectId: "jobs-we-care-you",
-  storageBucket: "jobs-we-care-you.firebasestorage.app",
-  messagingSenderId: "109056475031",
-  appId: "1:109056475031:web:3ea598382db0a8863e0ed2",
+  apiKey: "AIzaSyCu2yRwUhDhx2n1qfptYF8W_Y4OCgpBVhY",
+  authDomain: "myphd-570f2.firebaseapp.com",
+  projectId: "myphd-570f2",
+  storageBucket: "myphd-570f2.firebasestorage.app",
+  messagingSenderId: "1093973685995",
+  appId: "1:1093973685995:web:b1045efa5e529aee90f0ae",
 
   // Base URL of the deployed "tailorResume" Cloud Function, used by the
   // Settings → "Tailor" button for AI resume tailoring. Leave this as an
