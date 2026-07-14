@@ -52,3 +52,10 @@
 [2026-07-14 17:07:14 UTC] Regenerated tracker page at /sessions/exciting-stoic-brahmagupta/mnt/outputs/phd-application-tracker/docs/index.html (38 total positions, 5721 professors, 460 schools)
 [2026-07-14 17:07:14 UTC] Run complete.
 
+[2026-07-14 17:25:40 UTC] Starting PhD position check run...
+[2026-07-14 17:26:06 UTC] No new positions found this run.
+[2026-07-14 17:26:09 UTC] Wrote 5721 professors to /home/runner/work/phd-tracker/phd-tracker/data/professors.json
+[2026-07-14 17:26:09 UTC] Wrote 460 schools to /home/runner/work/phd-tracker/phd-tracker/data/schools.json
+[2026-07-14 17:26:09 UTC] Regenerated tracker page at /home/runner/work/phd-tracker/phd-tracker/docs/index.html (38 total positions, 5721 professors, 460 schools)
+[2026-07-14 17:26:09 UTC] Run complete.
+
