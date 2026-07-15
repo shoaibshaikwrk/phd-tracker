@@ -4,7 +4,7 @@ on:
   schedule:
     # 13:00 UTC = 8:00am US Eastern / 5:00am US Pacific / 1:00pm UK. Adjust as
     # you like — https://crontab.guru is handy for editing this.
-    - cron: "0 * * * *"
+    - cron: "0 */8 * * *"
   workflow_dispatch: {}
   # ^ lets you trigger a run manually from the Actions tab, useful for testing.
 
