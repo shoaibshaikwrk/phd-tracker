@@ -829,7 +829,7 @@
     "name": "Martin T. Vechev",
     "company": "ETH Zurich",
     "location": "CH",
-    "url": "http://www.srl.inf.ethz.ch/vechev.php",
+    "url": "https://www.sri.inf.ethz.ch/people/martin",
     "tags": [
       "ml_broad",
       "applied_ml",
@@ -17751,20 +17751,6 @@
     "note": ""
   },
   {
-    "id": "prof_csr_dongsheng_luo",
-    "name": "Dongsheng Luo",
-    "company": "Florida International University",
-    "location": "US",
-    "url": "https://users.cs.fiu.edu/~dluo",
-    "tags": [
-      "ml_broad",
-      "applied_ml"
-    ],
-    "score": 2.6,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
     "id": "prof_csr_erel_segal_halevi",
     "name": "Erel Segal-Halevi",
     "company": "Ariel University",
@@ -20143,6 +20129,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_giuseppe_marra",
+    "name": "Giuseppe Marra",
+    "company": "KU Leuven",
+    "location": "BE",
+    "url": "https://www.giuseppemarra.com",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 2.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_hadi_daneshmand",
     "name": "Hadi Daneshmand",
     "company": "University of Virginia",
@@ -20430,6 +20429,20 @@
       "ml_broad",
       "applied_ml",
       "llm_nlp"
+    ],
+    "score": 2.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_omar_khattab",
+    "name": "Omar Khattab",
+    "company": "Massachusetts Inst. of Technology",
+    "location": "US",
+    "url": "https://omarkhattab.com",
+    "tags": [
+      "llm_nlp",
+      "ml_broad"
     ],
     "score": 2.3,
     "source": "CSRankings",
@@ -22397,6 +22410,19 @@
       "ml_broad",
       "applied_ml",
       "ml_systems"
+    ],
+    "score": 2.0,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_andrew_lowy",
+    "name": "Andrew Lowy",
+    "company": "CISPA Helmholtz Center",
+    "location": "DE",
+    "url": "https://sites.google.com/view/andrewlowy",
+    "tags": [
+      "ml_broad"
     ],
     "score": 2.0,
     "source": "CSRankings",
@@ -32289,6 +32315,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_qi_chen_0015",
+    "name": "Qi Chen 0015",
+    "company": "Aalto University",
+    "location": "FI",
+    "url": "https://livreq.github.io",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 1.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_reshef_meir",
     "name": "Reshef Meir",
     "company": "Technion",
@@ -36680,6 +36719,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_bei_peng_0001",
+    "name": "Bei Peng 0001",
+    "company": "University of Sheffield",
+    "location": "GB",
+    "url": "https://beipeng.github.io",
+    "tags": [
+      "ml_broad",
+      "applied_ml"
+    ],
+    "score": 1.0,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_bill_lin_0001",
     "name": "Bill Lin 0001",
     "company": "Univ. of California - San Diego",
@@ -38059,19 +38112,6 @@
     "note": ""
   },
   {
-    "id": "prof_csr_sebastian_schuster",
-    "name": "Sebastian Schuster",
-    "company": "University of Vienna",
-    "location": "AT",
-    "url": "https://dm.cs.univie.ac.at/team/person/1010258",
-    "tags": [
-      "llm_nlp"
-    ],
-    "score": 1.0,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
     "id": "prof_csr_shan_luo_0001",
     "name": "Shan Luo 0001",
     "company": "University of Liverpool",
@@ -38918,6 +38958,20 @@
     "url": "http://www.inf.ed.ac.uk/people/staff/Elizabeth_Polgreen.html",
     "tags": [
       "ml_broad"
+    ],
+    "score": 0.9,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_eoin_delaney",
+    "name": "Eoin Delaney",
+    "company": "Trinity College Dublin",
+    "location": "IE",
+    "url": "https://e-delaney.github.io",
+    "tags": [
+      "ml_broad",
+      "llm_nlp"
     ],
     "score": 0.9,
     "source": "CSRankings",
@@ -42588,6 +42642,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_peiran_yu",
+    "name": "Peiran Yu",
+    "company": "University of Texas at Arlington",
+    "location": "US",
+    "url": "https://www.uta.edu/academics/faculty/profile?user=peiran.yu",
+    "tags": [
+      "ml_broad",
+      "applied_ml"
+    ],
+    "score": 0.8,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_peter_brusilovsky",
     "name": "Peter Brusilovsky",
     "company": "University of Pittsburgh",
@@ -43450,6 +43518,20 @@
     "url": "https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/yuliya-lierler.php",
     "tags": [
       "ml_broad"
+    ],
+    "score": 0.8,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_yuzhi_guo",
+    "name": "Yuzhi Guo",
+    "company": "Kent State University",
+    "location": "US",
+    "url": "https://yuzhiguo07.github.io",
+    "tags": [
+      "ml_broad",
+      "applied_ml"
     ],
     "score": 0.8,
     "source": "CSRankings",
@@ -48656,6 +48738,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_yongle_zhang_0007",
+    "name": "Yongle Zhang 0007",
+    "company": "Purdue University",
+    "location": "US",
+    "url": "https://www.cs.purdue.edu/homes/yonglezh",
+    "tags": [
+      "ml_systems"
+    ],
+    "score": 0.6,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_youtao_zhang",
     "name": "Youtao Zhang",
     "company": "University of Pittsburgh",
@@ -49151,6 +49246,19 @@
     "url": "https://alisiahkoohi.github.io",
     "tags": [
       "ml_broad"
+    ],
+    "score": 0.5,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_alina_barnett",
+    "name": "Alina Barnett",
+    "company": "University of Rhode Island",
+    "location": "US",
+    "url": "https://alinajadebarnett.github.io",
+    "tags": [
+      "applied_ml"
     ],
     "score": 0.5,
     "source": "CSRankings",
@@ -50812,6 +50920,20 @@
     "url": "https://ece.charlotte.edu/directory/dr-hamed-tabkhi-phd",
     "tags": [
       "ml_broad"
+    ],
+    "score": 0.5,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_hanqing_guo",
+    "name": "Hanqing Guo",
+    "company": "Indiana University",
+    "location": "US",
+    "url": "https://luddy.iu.edu/people/guo-hanqing.html",
+    "tags": [
+      "ml_broad",
+      "llm_nlp"
     ],
     "score": 0.5,
     "source": "CSRankings",
@@ -55647,6 +55769,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_kaleel_mahmood",
+    "name": "Kaleel Mahmood",
+    "company": "University of Rhode Island",
+    "location": "US",
+    "url": "https://web.uri.edu/cs/meet/kaleel-mahmood",
+    "tags": [
+      "applied_ml"
+    ],
+    "score": 0.4,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_kenneth_joseph",
     "name": "Kenneth Joseph",
     "company": "University at Buffalo",
@@ -56025,6 +56160,19 @@
     "url": "https://www.dcs.bbk.ac.uk/about/people/academic-staff/michael",
     "tags": [
       "ml_broad"
+    ],
+    "score": 0.4,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_michal_friedman_0001",
+    "name": "Michal Friedman 0001",
+    "company": "ETH Zurich",
+    "location": "CH",
+    "url": "https://cores.inf.ethz.ch/people/michalfriedman",
+    "tags": [
+      "ml_systems"
     ],
     "score": 0.4,
     "source": "CSRankings",
@@ -57102,6 +57250,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_yannis_chronis",
+    "name": "Yannis Chronis",
+    "company": "ETH Zurich",
+    "location": "CH",
+    "url": "https://chronis.inf.ethz.ch",
+    "tags": [
+      "ml_systems"
+    ],
+    "score": 0.4,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_yanzhao_wu_0001",
     "name": "Yanzhao Wu 0001",
     "company": "Florida International University",
@@ -57346,9 +57507,9 @@
   {
     "id": "prof_csr_abhishek_bhattacharjee",
     "name": "Abhishek Bhattacharjee",
-    "company": "Yale University",
+    "company": "Princeton University",
     "location": "US",
-    "url": "https://cpsc.yale.edu/people/abhishek-bhattacharjee",
+    "url": "https://www.cs.princeton.edu/people/profile/abhattac",
     "tags": [
       "ml_systems"
     ],
@@ -59018,6 +59179,19 @@
     "url": "https://networks.imdea.org/team/imdea-networks-team/people/guillermo-suarez-tangil",
     "tags": [
       "llm_nlp"
+    ],
+    "score": 0.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_guy_avni",
+    "name": "Guy Avni",
+    "company": "University of Haifa",
+    "location": "IL",
+    "url": "https://sites.google.com/view/gavni",
+    "tags": [
+      "ml_broad"
     ],
     "score": 0.3,
     "source": "CSRankings",
@@ -63338,6 +63512,19 @@
     "company": "Boise State University",
     "location": "US",
     "url": "https://www.boisestate.edu/coen-cs/people/faculty/amit-jain",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.2,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_amos_korman",
+    "name": "Amos Korman",
+    "company": "University of Haifa",
+    "location": "IL",
+    "url": "https://amoskorman.cs.haifa.ac.il",
     "tags": [
       "ml_broad"
     ],
