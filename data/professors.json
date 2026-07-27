@@ -17077,6 +17077,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_danny_ziyi_chen",
+    "name": "Danny Ziyi Chen",
+    "company": "University of Notre Dame",
+    "location": "US",
+    "url": "https://academicweb.nd.edu/~dchen",
+    "tags": [
+      "ml_broad",
+      "applied_ml"
+    ],
+    "score": 2.7,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_debmalya_mandal",
     "name": "Debmalya Mandal",
     "company": "University of Warwick",
@@ -22356,6 +22370,19 @@
       "applied_ml"
     ],
     "score": 2.1,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_abhishek_shetty",
+    "name": "Abhishek Shetty",
+    "company": "Georgia Institute of Technology",
+    "location": "US",
+    "url": "https://ashettyv.github.io",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 2.0,
     "source": "CSRankings",
     "note": ""
   },
@@ -29346,6 +29373,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_ruizhe_zhang_0001",
+    "name": "Ruizhe Zhang 0001",
+    "company": "Purdue University",
+    "location": "US",
+    "url": "https://ruizhezhang.com",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 1.5,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_sanda_m_harabagiu",
     "name": "Sanda M. Harabagiu",
     "company": "University of Texas at Dallas",
@@ -29720,9 +29760,9 @@
   {
     "id": "prof_csr_xipeng_shen",
     "name": "Xipeng Shen",
-    "company": "North Carolina State University",
+    "company": "Purdue University",
     "location": "US",
-    "url": "https://research.csc.ncsu.edu/picture/xshen5/index.htm",
+    "url": "https://pictureresearch.github.io/picture_website/xshen5/index.htm",
     "tags": [
       "ml_broad",
       "ml_systems",
@@ -53573,6 +53613,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_sotiris_nousias",
+    "name": "Sotiris Nousias",
+    "company": "Purdue University",
+    "location": "US",
+    "url": "https://www.cs.purdue.edu/people/faculty/snousias.html",
+    "tags": [
+      "applied_ml",
+      "ml_broad"
+    ],
+    "score": 0.5,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_srini_devadas",
     "name": "Srini Devadas",
     "company": "Massachusetts Inst. of Technology",
@@ -53815,6 +53869,19 @@
     "company": "North Carolina State University",
     "location": "US",
     "url": "https://people.engr.ncsu.edu/twprice/website",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.5,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_thuy_duong_vuong",
+    "name": "Thuy-Duong Vuong",
+    "company": "Univ. of California - San Diego",
+    "location": "US",
+    "url": "https://thuyduongvuong.github.io/index.html",
     "tags": [
       "ml_broad"
     ],
@@ -58494,19 +58561,6 @@
     "company": "Univ. of Massachusetts Amherst",
     "location": "US",
     "url": "https://people.cs.umass.edu/~jensen",
-    "tags": [
-      "ml_broad"
-    ],
-    "score": 0.3,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
-    "id": "prof_csr_david_danks",
-    "name": "David Danks",
-    "company": "Univ. of California - San Diego",
-    "location": "US",
-    "url": "https://www.daviddanks.org",
     "tags": [
       "ml_broad"
     ],
