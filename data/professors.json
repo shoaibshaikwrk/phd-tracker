@@ -1272,9 +1272,9 @@
   {
     "id": "prof_csr_steven_z_wu",
     "name": "Steven Z. Wu",
-    "company": "University of Minnesota",
+    "company": "Carnegie Mellon University",
     "location": "US",
-    "url": "https://www-users.cs.umn.edu/~zsw",
+    "url": "https://zstevenwu.com",
     "tags": [
       "ml_broad",
       "llm_nlp",
@@ -1398,6 +1398,21 @@
     "note": ""
   },
   {
+    "id": "prof_csr_tommi_s_jaakkola",
+    "name": "Tommi S. Jaakkola",
+    "company": "Massachusetts Inst. of Technology",
+    "location": "US",
+    "url": "https://people.csail.mit.edu/tommi",
+    "tags": [
+      "ml_broad",
+      "llm_nlp",
+      "applied_ml"
+    ],
+    "score": 12.9,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_andrew_gordon_wilson",
     "name": "Andrew Gordon Wilson",
     "company": "New York University",
@@ -1436,21 +1451,6 @@
       "applied_ml"
     ],
     "score": 12.8,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
-    "id": "prof_csr_tommi_s_jaakkola",
-    "name": "Tommi S. Jaakkola",
-    "company": "Massachusetts Inst. of Technology",
-    "location": "US",
-    "url": "https://people.csail.mit.edu/tommi",
-    "tags": [
-      "ml_broad",
-      "llm_nlp",
-      "applied_ml"
-    ],
-    "score": 12.7,
     "source": "CSRankings",
     "note": ""
   },
@@ -35134,9 +35134,9 @@
   {
     "id": "prof_csr_kobi_gal",
     "name": "Kobi Gal",
-    "company": "University of Edinburgh",
-    "location": "GB",
-    "url": "http://www.inf.ed.ac.uk/people/staff/Kobi_Gal.html",
+    "company": "Ben-Gurion University of the Negev",
+    "location": "IL",
+    "url": "http://www.ise.bgu.ac.il/engineering/PersonalWebSite1main.aspx?id=djueVuMe",
     "tags": [
       "ml_broad"
     ],
@@ -78481,6 +78481,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_sophia_shao",
+    "name": "Sophia Shao",
+    "company": "Univ. of California - Berkeley",
+    "location": "US",
+    "url": "https://people.eecs.berkeley.edu/~ysshao",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.1,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_srihari_nelakuditi",
     "name": "Srihari Nelakuditi",
     "company": "University of South Carolina",
@@ -79110,19 +79123,6 @@
     "company": "Radboud University",
     "location": "NL",
     "url": "https://www.ru.nl/english/people/gucluturk-y",
-    "tags": [
-      "ml_broad"
-    ],
-    "score": 0.1,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
-    "id": "prof_csr_yakun_sophia_shao",
-    "name": "Yakun Sophia Shao",
-    "company": "Univ. of California - Berkeley",
-    "location": "US",
-    "url": "https://people.eecs.berkeley.edu/~ysshao",
     "tags": [
       "ml_broad"
     ],
