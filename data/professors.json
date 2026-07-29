@@ -27148,6 +27148,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_zg_r_simsek",
+    "name": "Özgür Simsek",
+    "company": "University of Bath",
+    "location": "GB",
+    "url": "https://researchportal.bath.ac.uk/en/persons/%C3%B6zg%C3%BCr-%C5%9Fim%C5%9Fek",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 1.8,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_ahmed_m_elgammal",
     "name": "Ahmed M. Elgammal",
     "company": "Rutgers University",
@@ -27399,6 +27412,19 @@
       "llm_nlp",
       "ml_broad",
       "applied_ml"
+    ],
+    "score": 1.7,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_gecia_bravo_hermsdorff",
+    "name": "Gecia Bravo Hermsdorff",
+    "company": "University of Bath",
+    "location": "GB",
+    "url": "https://researchportal.bath.ac.uk/en/persons/gecia-bravo-hermsdorff",
+    "tags": [
+      "ml_broad"
     ],
     "score": 1.7,
     "source": "CSRankings",
@@ -31763,6 +31789,19 @@
     "url": "http://haibo.pro",
     "tags": [
       "ml_systems"
+    ],
+    "score": 1.4,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_harish_tayyar_madabushi",
+    "name": "Harish Tayyar Madabushi",
+    "company": "University of Bath",
+    "location": "GB",
+    "url": "https://researchportal.bath.ac.uk/en/persons/harish-tayyar-madabushi",
+    "tags": [
+      "llm_nlp"
     ],
     "score": 1.4,
     "source": "CSRankings",
@@ -57884,6 +57923,19 @@
     "company": "Carnegie Mellon University",
     "location": "US",
     "url": "https://www.cs.cmu.edu/~minchenl",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.4,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_mingzhi_dong",
+    "name": "Mingzhi Dong",
+    "company": "University of Bath",
+    "location": "GB",
+    "url": "https://researchportal.bath.ac.uk/en/persons/mingzhi-dong",
     "tags": [
       "ml_broad"
     ],
