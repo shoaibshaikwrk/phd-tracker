@@ -18731,6 +18731,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_nadav_cohen_0001",
+    "name": "Nadav Cohen 0001",
+    "company": "Tel Aviv University",
+    "location": "IL",
+    "url": "http://www.cohennadav.com",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 2.7,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_pascal_lenzner",
     "name": "Pascal Lenzner",
     "company": "University of Augsburg",
@@ -31595,6 +31608,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_da_chen_0003",
+    "name": "Da Chen 0003",
+    "company": "University of Bath",
+    "location": "GB",
+    "url": "https://researchportal.bath.ac.uk/en/persons/da-chen",
+    "tags": [
+      "applied_ml"
+    ],
+    "score": 1.4,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_damien_garreau",
     "name": "Damien Garreau",
     "company": "University of Würzburg",
@@ -33347,9 +33373,9 @@
   {
     "id": "prof_csr_jie_zhang_0008",
     "name": "Jie Zhang 0008",
-    "company": "University of Southampton",
+    "company": "University of Bath",
     "location": "GB",
-    "url": "https://www.ecs.soton.ac.uk/people/jz5c16",
+    "url": "https://researchportal.bath.ac.uk/en/persons/jie-zhang",
     "tags": [
       "ml_broad"
     ],
@@ -33979,6 +34005,21 @@
     "tags": [
       "llm_nlp",
       "ml_broad"
+    ],
+    "score": 1.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_thieu_vo",
+    "name": "Thieu Vo",
+    "company": "University of Bath",
+    "location": "GB",
+    "url": "https://researchportal.bath.ac.uk/en/persons/thieu-vo",
+    "tags": [
+      "ml_broad",
+      "applied_ml",
+      "llm_nlp"
     ],
     "score": 1.3,
     "source": "CSRankings",
@@ -34742,6 +34783,19 @@
       "ml_broad",
       "ml_systems",
       "llm_nlp"
+    ],
+    "score": 1.2,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_edward_milsom",
+    "name": "Edward Milsom",
+    "company": "University of Bath",
+    "location": "GB",
+    "url": "https://researchportal.bath.ac.uk/en/persons/edward-milsom",
+    "tags": [
+      "ml_broad"
     ],
     "score": 1.2,
     "source": "CSRankings",
@@ -37233,6 +37287,20 @@
     "tags": [
       "ml_broad",
       "applied_ml"
+    ],
+    "score": 1.1,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_michael_ying_yang",
+    "name": "Michael Ying Yang",
+    "company": "University of Bath",
+    "location": "GB",
+    "url": "https://researchportal.bath.ac.uk/en/persons/michael-yang-2",
+    "tags": [
+      "applied_ml",
+      "ml_broad"
     ],
     "score": 1.1,
     "source": "CSRankings",
@@ -40524,6 +40592,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_deblina_bhattacharjee",
+    "name": "Deblina Bhattacharjee",
+    "company": "University of Bath",
+    "location": "GB",
+    "url": "https://researchportal.bath.ac.uk/en/persons/deblina-bhattacharjee",
+    "tags": [
+      "applied_ml"
+    ],
+    "score": 0.9,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_depeng_xu_0001",
     "name": "Depeng Xu 0001",
     "company": "UNC - Charlotte",
@@ -42822,6 +42903,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_davide_moltisanti",
+    "name": "Davide Moltisanti",
+    "company": "University of Bath",
+    "location": "GB",
+    "url": "https://researchportal.bath.ac.uk/en/persons/davide-moltisanti",
+    "tags": [
+      "applied_ml"
+    ],
+    "score": 0.8,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_deeparnab_chakrabarty",
     "name": "Deeparnab Chakrabarty",
     "company": "Dartmouth College",
@@ -43478,6 +43572,19 @@
     "company": "RWTH Aachen University",
     "location": "DE",
     "url": "http://www-i2.informatik.rwth-aachen.de/~katoen",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.8,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_justus_h_piater",
+    "name": "Justus H. Piater",
+    "company": "University of Innsbruck",
+    "location": "AT",
+    "url": "https://iis.uibk.ac.at/people/justus",
     "tags": [
       "ml_broad"
     ],
@@ -60851,6 +60958,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_georgios_exarchakis",
+    "name": "Georgios Exarchakis",
+    "company": "University of Bath",
+    "location": "GB",
+    "url": "https://researchportal.bath.ac.uk/en/persons/georgios-exarchakis",
+    "tags": [
+      "applied_ml"
+    ],
+    "score": 0.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_georgios_john_fakas",
     "name": "Georgios John Fakas",
     "company": "Uppsala University",
@@ -64863,7 +64983,7 @@
     "name": "Zichun Zhong",
     "company": "Wayne State University",
     "location": "US",
-    "url": "http://www.cs.wayne.edu/zzhong",
+    "url": "https://zichunzhong.github.io",
     "tags": [
       "ml_broad"
     ],
