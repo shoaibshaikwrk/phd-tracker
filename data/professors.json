@@ -21098,6 +21098,21 @@
     "note": ""
   },
   {
+    "id": "prof_csr_bo_xiong_0001",
+    "name": "Bo Xiong 0001",
+    "company": "Iowa State University",
+    "location": "US",
+    "url": "https://boxiong.io",
+    "tags": [
+      "ml_broad",
+      "llm_nlp",
+      "applied_ml"
+    ],
+    "score": 2.4,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_carsten_lutz",
     "name": "Carsten Lutz",
     "company": "University of Leipzig",
@@ -25806,21 +25821,6 @@
     "note": ""
   },
   {
-    "id": "prof_csr_bo_xiong",
-    "name": "Bo Xiong",
-    "company": "Iowa State University",
-    "location": "US",
-    "url": "https://boxiong.io",
-    "tags": [
-      "applied_ml",
-      "llm_nlp",
-      "ml_broad"
-    ],
-    "score": 1.9,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
     "id": "prof_csr_c_c_jay_kuo",
     "name": "C.-C. Jay Kuo",
     "company": "University of Southern California",
@@ -25881,7 +25881,7 @@
   {
     "id": "prof_csr_chenguang_wang_0001",
     "name": "Chenguang Wang 0001",
-    "company": "Washington University in St. Louis",
+    "company": "Univ. of California - Santa Cruz",
     "location": "US",
     "url": "https://cgraywang.github.io",
     "tags": [
