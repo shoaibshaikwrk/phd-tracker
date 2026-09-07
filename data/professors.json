@@ -5918,7 +5918,7 @@
   {
     "id": "prof_csr_edoardo_maria_ponti",
     "name": "Edoardo Maria Ponti",
-    "company": "University of Edinburgh",
+    "company": "Imperial College London",
     "location": "GB",
     "url": "https://ducdauge.github.io",
     "tags": [
@@ -28120,6 +28120,19 @@
     "company": "University of Tennessee",
     "location": "US",
     "url": "https://eecs.utk.edu/people/dongsheng-ding",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 1.7,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_eliad_tsfadia",
+    "name": "Eliad Tsfadia",
+    "company": "Bar-Ilan University",
+    "location": "IL",
+    "url": "https://cs.biu.ac.il/node/435",
     "tags": [
       "ml_broad"
     ],
