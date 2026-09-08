@@ -2651,9 +2651,9 @@
   {
     "id": "prof_csr_michael_m_bronstein",
     "name": "Michael M. Bronstein",
-    "company": "Imperial College London",
+    "company": "University of Oxford",
     "location": "GB",
-    "url": "https://www.imperial.ac.uk/people/m.bronstein",
+    "url": "https://www.cs.ox.ac.uk/people/michael.bronstein",
     "tags": [
       "ml_broad",
       "applied_ml"
@@ -4163,9 +4163,9 @@
   {
     "id": "prof_csr_giuseppe_de_giacomo",
     "name": "Giuseppe De Giacomo",
-    "company": "Sapienza University of Rome",
-    "location": "IT",
-    "url": "http://www.diag.uniroma1.it/degiacomo",
+    "company": "University of Oxford",
+    "location": "GB",
+    "url": "https://www.cs.ox.ac.uk/people/giuseppe.degiacomo",
     "tags": [
       "ml_broad"
     ],
@@ -10560,7 +10560,7 @@
   {
     "id": "prof_csr_mark_van_der_wilk",
     "name": "Mark van der Wilk",
-    "company": "Imperial College London",
+    "company": "University of Oxford",
     "location": "GB",
     "url": "https://markvdw.github.io",
     "tags": [
@@ -12032,9 +12032,9 @@
   {
     "id": "prof_csr_graham_cormode",
     "name": "Graham Cormode",
-    "company": "University of Warwick",
+    "company": "University of Oxford",
     "location": "GB",
-    "url": "https://warwick.ac.uk/fac/sci/dcs/people/graham_cormode",
+    "url": "https://www.cs.ox.ac.uk/people/graham.cormode",
     "tags": [
       "ml_systems",
       "applied_ml",
@@ -17947,20 +17947,6 @@
     "url": "https://web.eecs.umich.edu/~ryanph",
     "tags": [
       "ml_systems"
-    ],
-    "score": 2.9,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
-    "id": "prof_csr_phil_blunsom",
-    "name": "Phil Blunsom",
-    "company": "University of Oxford",
-    "location": "GB",
-    "url": "https://www.cs.ox.ac.uk/people/phil.blunsom",
-    "tags": [
-      "llm_nlp",
-      "ml_broad"
     ],
     "score": 2.9,
     "source": "CSRankings",
@@ -29008,6 +28994,21 @@
     "company": "Univ. of Illinois at Urbana-Champaign",
     "location": "US",
     "url": "http://web.engr.illinois.edu/~zaher",
+    "tags": [
+      "ml_broad",
+      "llm_nlp",
+      "applied_ml"
+    ],
+    "score": 1.7,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_tianci_liu_0003",
+    "name": "Tianci Liu 0003",
+    "company": "University of Tennessee",
+    "location": "US",
+    "url": "https://lliutianc.github.io",
     "tags": [
       "ml_broad",
       "llm_nlp",
@@ -44190,20 +44191,6 @@
     "note": ""
   },
   {
-    "id": "prof_csr_georg_gottlob",
-    "name": "Georg Gottlob",
-    "company": "University of Oxford",
-    "location": "GB",
-    "url": "https://www.cs.ox.ac.uk/people/georg.gottlob",
-    "tags": [
-      "ml_broad",
-      "ml_systems"
-    ],
-    "score": 0.8,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
     "id": "prof_csr_george_iosifidis",
     "name": "George Iosifidis",
     "company": "TU Delft",
@@ -45731,9 +45718,9 @@
   {
     "id": "prof_csr_sara_bernardini",
     "name": "Sara Bernardini",
-    "company": "Royal Holloway Univ. of London",
+    "company": "University of Oxford",
     "location": "GB",
-    "url": "https://pure.royalholloway.ac.uk/portal/en/persons/sara-bernardini(775b7f60-f913-4a31-aac5-85231cd69f11).html",
+    "url": "https://www.cs.ox.ac.uk/people/sara.bernardini",
     "tags": [
       "ml_broad"
     ],
@@ -74787,19 +74774,6 @@
     "url": "https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/socially-perceptive-computing-lab/people/stephanie-tan-1",
     "tags": [
       "ml_broad"
-    ],
-    "score": 0.2,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
-    "id": "prof_csr_stephen_g_pulman",
-    "name": "Stephen G. Pulman",
-    "company": "University of Oxford",
-    "location": "GB",
-    "url": "https://www.cs.ox.ac.uk/people/stephen.pulman",
-    "tags": [
-      "llm_nlp"
     ],
     "score": 0.2,
     "source": "CSRankings",
