@@ -30558,19 +30558,6 @@
     "note": ""
   },
   {
-    "id": "prof_csr_ahmed_h_qureshi",
-    "name": "Ahmed H. Qureshi",
-    "company": "Purdue University",
-    "location": "US",
-    "url": "https://www.cs.purdue.edu/people/faculty/qureshi7.html",
-    "tags": [
-      "ml_broad"
-    ],
-    "score": 1.5,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
     "id": "prof_csr_alex_aiken",
     "name": "Alex Aiken",
     "company": "Stanford University",
@@ -55366,8 +55353,8 @@
     "note": ""
   },
   {
-    "id": "prof_csr_nasir_d_memon",
-    "name": "Nasir D. Memon",
+    "id": "prof_csr_nasir_memon",
+    "name": "Nasir Memon",
     "company": "New York University",
     "location": "US",
     "url": "http://isis.poly.edu/memon",
@@ -57273,6 +57260,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_yang_li_0183",
+    "name": "Yang Li 0183",
+    "company": "Iowa State University",
+    "location": "US",
+    "url": "https://www.cs.iastate.edu/people/yang-li",
+    "tags": [
+      "llm_nlp"
+    ],
+    "score": 0.5,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_yanlong_huang",
     "name": "Yanlong Huang",
     "company": "University of Leeds",
@@ -58936,19 +58936,6 @@
     "company": "Université Jean Monnet",
     "location": "FR",
     "url": "http://perso.univ-st-etienne.fr/sebbanma",
-    "tags": [
-      "ml_broad"
-    ],
-    "score": 0.4,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
-    "id": "prof_csr_marcel_van_gerven",
-    "name": "Marcel van Gerven",
-    "company": "Radboud University",
-    "location": "NL",
-    "url": "https://www.ru.nl/english/people/gerven-m-van",
     "tags": [
       "ml_broad"
     ],
@@ -63546,6 +63533,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_marcel_van_gerven",
+    "name": "Marcel van Gerven",
+    "company": "Radboud University",
+    "location": "NL",
+    "url": "https://www.ru.nl/english/people/gerven-m-van",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_marco_zuniga",
     "name": "Marco Zuniga",
     "company": "TU Delft",
@@ -65642,6 +65642,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_tom_arodz",
+    "name": "Tom Arodz",
+    "company": "Virginia Commonwealth University",
+    "location": "US",
+    "url": "http://www.people.vcu.edu/~tarodz",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_tom_deakin",
     "name": "Tom Deakin",
     "company": "University of Bristol",
@@ -65673,19 +65686,6 @@
     "company": "University College London",
     "location": "GB",
     "url": "http://www.cs.ucl.ac.uk/staff/tomaso_aste",
-    "tags": [
-      "ml_broad"
-    ],
-    "score": 0.3,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
-    "id": "prof_csr_tomasz_arodz",
-    "name": "Tomasz Arodz",
-    "company": "Virginia Commonwealth University",
-    "location": "US",
-    "url": "http://www.people.vcu.edu/~tarodz",
     "tags": [
       "ml_broad"
     ],
@@ -66007,19 +66007,6 @@
     "url": "https://web.iem.technion.ac.il/en/people/userprofile/yakovbab.html",
     "tags": [
       "ml_broad"
-    ],
-    "score": 0.3,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
-    "id": "prof_csr_yang_li_0183",
-    "name": "Yang Li 0183",
-    "company": "Iowa State University",
-    "location": "US",
-    "url": "https://www.cs.iastate.edu/people/yang-li",
-    "tags": [
-      "llm_nlp"
     ],
     "score": 0.3,
     "source": "CSRankings",
@@ -78782,6 +78769,19 @@
     "company": "Syracuse University",
     "location": "US",
     "url": "https://ecs.syr.edu/faculty/fardad/index.htm",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.1,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_marcel_a_j_van_gerven",
+    "name": "Marcel A. J. van Gerven",
+    "company": "Radboud University",
+    "location": "NL",
+    "url": "https://www.ru.nl/english/people/gerven-m-van",
     "tags": [
       "ml_broad"
     ],
