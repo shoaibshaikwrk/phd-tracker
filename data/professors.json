@@ -9682,7 +9682,7 @@
     "name": "Alois C. Knoll",
     "company": "TU Munich",
     "location": "DE",
-    "url": "http://www6.in.tum.de/Main/Knoll",
+    "url": "https://www.ce.cit.tum.de/air/people/prof-dr-ing-habil-alois-knoll",
     "tags": [
       "ml_broad",
       "applied_ml"
@@ -16535,20 +16535,6 @@
     "note": ""
   },
   {
-    "id": "prof_csr_raymond_j_mooney",
-    "name": "Raymond J. Mooney",
-    "company": "University of Texas at Austin",
-    "location": "US",
-    "url": "https://www.cs.utexas.edu/~mooney",
-    "tags": [
-      "llm_nlp",
-      "ml_broad"
-    ],
-    "score": 3.1,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
     "id": "prof_csr_ruiquan_huang",
     "name": "Ruiquan Huang",
     "company": "University of Kentucky",
@@ -18250,6 +18236,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_benjie_wang_0001",
+    "name": "Benjie Wang 0001",
+    "company": "University of Utah",
+    "location": "US",
+    "url": "https://benjiewang.com",
+    "tags": [
+      "ml_broad",
+      "llm_nlp"
+    ],
+    "score": 2.8,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_c_karen_liu",
     "name": "C. Karen Liu",
     "company": "Stanford University",
@@ -19477,9 +19477,9 @@
   {
     "id": "prof_csr_aris_filos_ratsikas",
     "name": "Aris Filos-Ratsikas",
-    "company": "University of Edinburgh",
+    "company": "Imperial College London",
     "location": "GB",
-    "url": "http://www.inf.ed.ac.uk/people/staff/Aris_Filos-Ratsikas.html",
+    "url": "https://arisfilosratsikas.com",
     "tags": [
       "ml_broad"
     ],
@@ -23777,6 +23777,21 @@
       "applied_ml",
       "ml_broad",
       "llm_nlp"
+    ],
+    "score": 2.2,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_weiyan_shi_0001",
+    "name": "Weiyan Shi 0001",
+    "company": "Northeastern University",
+    "location": "US",
+    "url": "https://wyshi.github.io",
+    "tags": [
+      "llm_nlp",
+      "ml_broad",
+      "applied_ml"
     ],
     "score": 2.2,
     "source": "CSRankings",
@@ -34693,6 +34708,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_stephanie_schoch",
+    "name": "Stephanie Schoch",
+    "company": "College of William and Mary",
+    "location": "US",
+    "url": "https://stephanieschoch.com",
+    "tags": [
+      "llm_nlp",
+      "ml_broad"
+    ],
+    "score": 1.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_stephen_hailes",
     "name": "Stephen Hailes",
     "company": "University College London",
@@ -34727,6 +34756,20 @@
     "url": "http://biology.ucsd.edu/research/faculty/tsejnowski",
     "tags": [
       "ml_broad"
+    ],
+    "score": 1.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_thai_hoang_pham",
+    "name": "Thai-Hoang Pham",
+    "company": "Texas State University",
+    "location": "US",
+    "url": "https://phamlab.io",
+    "tags": [
+      "ml_broad",
+      "applied_ml"
     ],
     "score": 1.3,
     "source": "CSRankings",
@@ -37837,6 +37880,20 @@
       "ml_broad",
       "llm_nlp",
       "applied_ml"
+    ],
+    "score": 1.1,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_jonathan_gratch",
+    "name": "Jonathan Gratch",
+    "company": "Vanderbilt University",
+    "location": "US",
+    "url": "https://computing.vanderbilt.edu/person/jonathan-gratch",
+    "tags": [
+      "llm_nlp",
+      "ml_broad"
     ],
     "score": 1.1,
     "source": "CSRankings",
@@ -42464,6 +42521,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_oscar_mendez_0001",
+    "name": "Oscar Mendez 0001",
+    "company": "University of Surrey",
+    "location": "GB",
+    "url": "http://oscarmendez.co.uk",
+    "tags": [
+      "applied_ml",
+      "ml_broad"
+    ],
+    "score": 0.9,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_petr_novotn_0001",
     "name": "Petr Novotný 0001",
     "company": "Masaryk University",
@@ -45852,6 +45923,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_simone_rossi_0001",
+    "name": "Simone Rossi 0001",
+    "company": "EURECOM",
+    "location": "FR",
+    "url": "https://eurecom.fr/~rossi",
+    "tags": [
+      "ml_broad",
+      "applied_ml"
+    ],
+    "score": 0.8,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_souyoung_jin",
     "name": "SouYoung Jin",
     "company": "Dartmouth College",
@@ -48764,6 +48849,19 @@
     "url": "http://cs.txstate.edu/~zz11",
     "tags": [
       "applied_ml"
+    ],
+    "score": 0.7,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_zixian_yang",
+    "name": "Zixian Yang",
+    "company": "Texas State University",
+    "location": "US",
+    "url": "https://sites.google.com/view/zixian",
+    "tags": [
+      "ml_broad"
     ],
     "score": 0.7,
     "source": "CSRankings",
@@ -52587,6 +52685,19 @@
     "company": "Carnegie Mellon University",
     "location": "US",
     "url": "http://www.cs.cmu.edu/~ckingsf",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.5,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_carlos_g_oliver",
+    "name": "Carlos G. Oliver",
+    "company": "Vanderbilt University",
+    "location": "US",
+    "url": "https://carlosoliver.co",
     "tags": [
       "ml_broad"
     ],
@@ -64291,6 +64402,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_parth_padalkar",
+    "name": "Parth Padalkar",
+    "company": "Texas State University",
+    "location": "US",
+    "url": "https://petrichor1998.github.io",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_pascal_bouvry",
     "name": "Pascal Bouvry",
     "company": "University of Luxembourg",
@@ -64913,6 +65037,32 @@
     "url": "https://ruxinwang1994.github.io",
     "tags": [
       "ml_broad",
+      "llm_nlp"
+    ],
+    "score": 0.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_ryan_l_boyd",
+    "name": "Ryan L. Boyd",
+    "company": "Vanderbilt University",
+    "location": "US",
+    "url": "https://computing.vanderbilt.edu/person/ryan-boyd",
+    "tags": [
+      "llm_nlp"
+    ],
+    "score": 0.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_ryan_louie",
+    "name": "Ryan Louie",
+    "company": "Vanderbilt University",
+    "location": "US",
+    "url": "https://computing.vanderbilt.edu/person/ryan-louie",
+    "tags": [
       "llm_nlp"
     ],
     "score": 0.3,
@@ -68442,7 +68592,7 @@
     "name": "David L. Roberts 0001",
     "company": "North Carolina State University",
     "location": "US",
-    "url": "https://www.csc.ncsu.edu/faculty/robertsd",
+    "url": "https://ciigar.csc.ncsu.edu/people/robertsd",
     "tags": [
       "ml_broad"
     ],
@@ -71453,6 +71603,19 @@
     "url": "https://lingxiaowang-ai.github.io",
     "tags": [
       "llm_nlp"
+    ],
+    "score": 0.2,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_lipeng_wan_0001",
+    "name": "Lipeng Wan 0001",
+    "company": "Georgia State University",
+    "location": "US",
+    "url": "https://lwan86.github.io",
+    "tags": [
+      "ml_systems"
     ],
     "score": 0.2,
     "source": "CSRankings",
@@ -79273,8 +79436,8 @@
   {
     "id": "prof_csr_onur_mutlu",
     "name": "Onur Mutlu",
-    "company": "ETH Zurich",
-    "location": "CH",
+    "company": "New York University",
+    "location": "US",
     "url": "https://people.inf.ethz.ch/omutlu",
     "tags": [
       "ml_systems"
@@ -80285,19 +80448,6 @@
     "note": ""
   },
   {
-    "id": "prof_csr_weiyan_shi",
-    "name": "Weiyan Shi",
-    "company": "Northeastern University",
-    "location": "US",
-    "url": "https://wyshi.github.io",
-    "tags": [
-      "llm_nlp"
-    ],
-    "score": 0.1,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
     "id": "prof_csr_wenjing_lou",
     "name": "Wenjing Lou",
     "company": "Virginia Tech",
@@ -80367,7 +80517,7 @@
     "name": "Xenofon Koutsoukos",
     "company": "Vanderbilt University",
     "location": "US",
-    "url": "https://engineering.vanderbilt.edu/bio/?pid=xenofon-koutsoukos",
+    "url": "https://computing.vanderbilt.edu/person/xenofon-koutsoukos",
     "tags": [
       "ml_broad"
     ],
