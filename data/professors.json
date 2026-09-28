@@ -14070,7 +14070,7 @@
   {
     "id": "prof_csr_jesse_thomason",
     "name": "Jesse Thomason",
-    "company": "University of Southern California",
+    "company": "Georgia Institute of Technology",
     "location": "US",
     "url": "https://jessethomason.com",
     "tags": [
@@ -16623,19 +16623,6 @@
     "url": "https://srijandas07.github.io",
     "tags": [
       "applied_ml",
-      "ml_broad"
-    ],
-    "score": 3.1,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
-    "id": "prof_csr_stefano_v_albrecht",
-    "name": "Stefano V. Albrecht",
-    "company": "University of Edinburgh",
-    "location": "GB",
-    "url": "http://www.inf.ed.ac.uk/people/staff/Stefano_Albrecht.html",
-    "tags": [
       "ml_broad"
     ],
     "score": 3.1,
