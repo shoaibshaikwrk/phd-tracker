@@ -32679,6 +32679,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_jiachang_liu_0001",
+    "name": "Jiachang Liu 0001",
+    "company": "Pennsylvania State University",
+    "location": "US",
+    "url": "https://jiachangliu.github.io",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 1.4,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_jialie_shen_0001",
     "name": "Jialie Shen 0001",
     "company": "City University of London",
@@ -34723,6 +34736,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_sumit_kumar_jha_0001",
+    "name": "Sumit Kumar Jha 0001",
+    "company": "University of Florida",
+    "location": "US",
+    "url": "https://cise.ufl.edu/~sumit.jha",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 1.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_tariq_iqbal",
     "name": "Tariq Iqbal",
     "company": "University of Virginia",
@@ -36097,9 +36123,9 @@
   {
     "id": "prof_csr_marco_loog",
     "name": "Marco Loog",
-    "company": "TU Delft",
+    "company": "Radboud University",
     "location": "NL",
-    "url": "https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/marco-loog",
+    "url": "https://www.ru.nl/en/people/loog-m",
     "tags": [
       "ml_broad",
       "applied_ml"
@@ -45700,6 +45726,19 @@
     "tags": [
       "ml_broad",
       "applied_ml"
+    ],
+    "score": 0.8,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_runzhou_tao_0001",
+    "name": "Runzhou Tao 0001",
+    "company": "Univ. of Maryland - College Park",
+    "location": "US",
+    "url": "https://cs.umd.edu/~rztao",
+    "tags": [
+      "ml_systems"
     ],
     "score": 0.8,
     "source": "CSRankings",
@@ -58667,6 +58706,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_jialin_yu_0001",
+    "name": "Jialin Yu 0001",
+    "company": "University of Bath",
+    "location": "GB",
+    "url": "https://researchportal.bath.ac.uk/en/persons/jialin-yu",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.4,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_jinming_wen",
     "name": "Jinming Wen",
     "company": "Ecole Normale Superieure de Lyon",
@@ -62476,7 +62528,7 @@
     "name": "Ignacio Castro",
     "company": "Queen Mary University of London",
     "location": "GB",
-    "url": "https://icastro.info",
+    "url": "https://ignacio-castro.uk",
     "tags": [
       "ml_systems",
       "llm_nlp"
@@ -74147,19 +74199,6 @@
     "note": ""
   },
   {
-    "id": "prof_csr_runzhou_tao",
-    "name": "Runzhou Tao",
-    "company": "Univ. of Maryland - College Park",
-    "location": "US",
-    "url": "https://www.cs.umd.edu/people/rztao",
-    "tags": [
-      "applied_ml"
-    ],
-    "score": 0.2,
-    "source": "CSRankings",
-    "note": ""
-  },
-  {
     "id": "prof_csr_ruozhou_yu",
     "name": "Ruozhou Yu",
     "company": "North Carolina State University",
@@ -77359,6 +77398,19 @@
     "company": "University of Stuttgart",
     "location": "DE",
     "url": "https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/Dirk.Pflueger",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.1,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_dominic_kao",
+    "name": "Dominic Kao",
+    "company": "Univ. of Illinois at Urbana-Champaign",
+    "location": "US",
+    "url": "https://people.csail.mit.edu/dkao",
     "tags": [
       "ml_broad"
     ],
