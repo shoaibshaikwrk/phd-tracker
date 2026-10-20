@@ -11694,6 +11694,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_helge_rhodin",
+    "name": "Helge Rhodin",
+    "company": "Bielefeld University",
+    "location": "DE",
+    "url": "http://helge.rhodin.de",
+    "tags": [
+      "applied_ml",
+      "ml_broad"
+    ],
+    "score": 4.2,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_ling_liu_0001",
     "name": "Ling Liu 0001",
     "company": "Georgia Institute of Technology",
@@ -15697,6 +15711,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_sadhika_malladi",
+    "name": "Sadhika Malladi",
+    "company": "Univ. of California - San Diego",
+    "location": "US",
+    "url": "https://sadhikamalladi.github.io/index.html",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 3.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_tian_li_0005",
     "name": "Tian Li 0005",
     "company": "University of Chicago",
@@ -19376,6 +19403,19 @@
     "url": "http://cs-people.bu.edu/ads22",
     "tags": [
       "ml_broad"
+    ],
+    "score": 2.6,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_alex_warstadt",
+    "name": "Alex Warstadt",
+    "company": "Univ. of California - San Diego",
+    "location": "US",
+    "url": "https://alexwarstadt.github.io",
+    "tags": [
+      "llm_nlp"
     ],
     "score": 2.6,
     "source": "CSRankings",
@@ -35552,6 +35592,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_dmitriy_drusvyatskiy",
+    "name": "Dmitriy Drusvyatskiy",
+    "company": "Univ. of California - San Diego",
+    "location": "US",
+    "url": "https://sites.google.com/view/dmitriy-drusvyatskiy/home?authuser=0",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 1.2,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_eamonn_j_keogh",
     "name": "Eamonn J. Keogh",
     "company": "Univ. of California - Riverside",
@@ -36195,6 +36248,20 @@
     "url": "http://www6.in.tum.de/Main/Althoff",
     "tags": [
       "ml_broad"
+    ],
+    "score": 1.2,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_meenakshi_khosla",
+    "name": "Meenakshi Khosla",
+    "company": "Univ. of California - San Diego",
+    "location": "US",
+    "url": "https://cogsci.ucsd.edu/people/faculty/meenakshi-khosla.html",
+    "tags": [
+      "ml_broad",
+      "llm_nlp"
     ],
     "score": 1.2,
     "source": "CSRankings",
@@ -40468,6 +40535,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_nicholas_antipa",
+    "name": "Nicholas Antipa",
+    "company": "Univ. of California - San Diego",
+    "location": "US",
+    "url": "http://nickantipa.com",
+    "tags": [
+      "applied_ml",
+      "ml_broad"
+    ],
+    "score": 1.0,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_nick_g_duffield",
     "name": "Nick G. Duffield",
     "company": "Texas A&M University",
@@ -43978,6 +44059,19 @@
     "url": "https://www.kth.se/profile/dejanko",
     "tags": [
       "ml_systems"
+    ],
+    "score": 0.8,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_duncan_watson_parris",
+    "name": "Duncan Watson-Parris",
+    "company": "Univ. of California - San Diego",
+    "location": "US",
+    "url": "https://datascience.ucsd.edu/people/duncan-watson-parris",
+    "tags": [
+      "ml_broad"
     ],
     "score": 0.8,
     "source": "CSRankings",
@@ -52119,6 +52213,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_alexander_cloninger",
+    "name": "Alexander Cloninger",
+    "company": "Univ. of California - San Diego",
+    "location": "US",
+    "url": "https://sites.google.com/ucsd.edu/alexandercloninger/home",
+    "tags": [
+      "ml_broad",
+      "ml_systems"
+    ],
+    "score": 0.5,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_alexander_volfovsky",
     "name": "Alexander Volfovsky",
     "company": "Duke University",
@@ -52166,6 +52274,20 @@
     "url": "http://www.cs.technion.ac.il/~freddy",
     "tags": [
       "applied_ml"
+    ],
+    "score": 0.5,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_ali_mostafavi",
+    "name": "Ali Mostafavi",
+    "company": "Texas A&M University",
+    "location": "US",
+    "url": "https://engineering.tamu.edu/civil/profiles/mostafavi-ali.html",
+    "tags": [
+      "ml_broad",
+      "llm_nlp"
     ],
     "score": 0.5,
     "source": "CSRankings",
@@ -56165,6 +56287,19 @@
     "company": "Univ. of Illinois at Urbana-Champaign",
     "location": "US",
     "url": "https://www.ece.illinois.edu/directory/profile/rkiyer",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.5,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_rayan_saab",
+    "name": "Rayan Saab",
+    "company": "Univ. of California - San Diego",
+    "location": "US",
+    "url": "https://mathweb.ucsd.edu/~rsaab",
     "tags": [
       "ml_broad"
     ],
@@ -64043,6 +64178,19 @@
     "tags": [
       "applied_ml",
       "ml_broad"
+    ],
+    "score": 0.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_mingu_kang",
+    "name": "Mingu Kang",
+    "company": "Univ. of California - San Diego",
+    "location": "US",
+    "url": "https://ucsdvvip.com/446873524/445916777",
+    "tags": [
+      "applied_ml"
     ],
     "score": 0.3,
     "source": "CSRankings",
@@ -73821,6 +73969,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_rahul_parhi",
+    "name": "Rahul Parhi",
+    "company": "Univ. of California - San Diego",
+    "location": "US",
+    "url": "https://sparsity.ucsd.edu/rahul",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.2,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_raiyan_abdul_baten",
     "name": "Raiyan Abdul Baten",
     "company": "University of South Florida",
@@ -74219,6 +74380,19 @@
     "url": "https://vbn.aau.dk/en/persons/rubi",
     "tags": [
       "ml_broad"
+    ],
+    "score": 0.2,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_s_m_ferdous",
+    "name": "S. M. Ferdous",
+    "company": "UNC - Charlotte",
+    "location": "US",
+    "url": "https://cci.charlotte.edu/people/s-m-ferdous",
+    "tags": [
+      "applied_ml"
     ],
     "score": 0.2,
     "source": "CSRankings",
@@ -75981,6 +76155,19 @@
     "url": "https://www.binghamton.edu/cs/people/ywang.html",
     "tags": [
       "applied_ml"
+    ],
+    "score": 0.2,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_yanan_guo_0002",
+    "name": "Yanan Guo 0002",
+    "company": "University of Rochester",
+    "location": "US",
+    "url": "https://yananguo.com",
+    "tags": [
+      "ml_broad"
     ],
     "score": 0.2,
     "source": "CSRankings",
