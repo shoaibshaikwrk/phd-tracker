@@ -19163,6 +19163,21 @@
     "note": ""
   },
   {
+    "id": "prof_csr_natasha_jaques",
+    "name": "Natasha Jaques",
+    "company": "University of Washington",
+    "location": "US",
+    "url": "https://natashajaques.ai",
+    "tags": [
+      "ml_broad",
+      "llm_nlp",
+      "applied_ml"
+    ],
+    "score": 2.7,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_oana_maria_camburu",
     "name": "Oana-Maria Camburu",
     "company": "Imperial College London",
@@ -19813,6 +19828,20 @@
     "tags": [
       "ml_broad",
       "applied_ml"
+    ],
+    "score": 2.6,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_jerry_li_0001",
+    "name": "Jerry Li 0001",
+    "company": "University of Washington",
+    "location": "US",
+    "url": "https://jerryzli.github.io",
+    "tags": [
+      "ml_broad",
+      "llm_nlp"
     ],
     "score": 2.6,
     "source": "CSRankings",
@@ -55200,6 +55229,19 @@
     "note": ""
   },
   {
+    "id": "prof_csr_matthew_d_golub",
+    "name": "Matthew D. Golub",
+    "company": "University of Washington",
+    "location": "US",
+    "url": "https://snail.cs.washington.edu/matt.html",
+    "tags": [
+      "ml_broad"
+    ],
+    "score": 0.5,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_matthias_b_hullin",
     "name": "Matthias B. Hullin",
     "company": "University of Bonn",
@@ -77977,6 +78019,19 @@
     "url": "http://www.informatik.uni-leipzig.de/bsv/homepage/de/people/gerik-scheuermann",
     "tags": [
       "llm_nlp"
+    ],
+    "score": 0.1,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_gilbert_louis_bernstein",
+    "name": "Gilbert Louis Bernstein",
+    "company": "University of Washington",
+    "location": "US",
+    "url": "https://gilbertbernstein.org",
+    "tags": [
+      "ml_systems"
     ],
     "score": 0.1,
     "source": "CSRankings",
