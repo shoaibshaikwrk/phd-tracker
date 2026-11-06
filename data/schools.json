@@ -1,5 +1,11 @@
 [
   {
+    "id": "school_agh_university_of_krakow",
+    "name": "AGH University of Krakow",
+    "url": "https://www.informatyka.agh.edu.pl/en/",
+    "location": "PL"
+  },
+  {
     "id": "school_aueb",
     "name": "AUEB",
     "url": "https://www.dept.aueb.gr/en/cs",
@@ -30,6 +36,12 @@
     "location": "GB"
   },
   {
+    "id": "school_adam_mickiewicz_university_in_pozna",
+    "name": "Adam Mickiewicz University in Poznań",
+    "url": "https://wmi.amu.edu.pl/en",
+    "location": "PL"
+  },
+  {
     "id": "school_air_force_inst_of_technology",
     "name": "Air Force Inst. of Technology",
     "url": "https://www.afit.edu/ENG/",
@@ -40,6 +52,12 @@
     "name": "Ariel University",
     "url": "https://www.ariel.ac.il/wp/cs/en/",
     "location": "IL"
+  },
+  {
+    "id": "school_aristotle_university_of_thessaloniki",
+    "name": "Aristotle University of Thessaloniki",
+    "url": "https://csd.auth.gr/en/",
+    "location": "GR"
   },
   {
     "id": "school_arizona_state_university",
@@ -330,6 +348,12 @@
     "location": "DK"
   },
   {
+    "id": "school_dakota_state_university",
+    "name": "Dakota State University",
+    "url": "https://dsu.edu/academics/colleges/beacom-college/",
+    "location": "US"
+  },
+  {
     "id": "school_dartmouth_college",
     "name": "Dartmouth College",
     "url": "https://web.cs.dartmouth.edu/",
@@ -432,6 +456,12 @@
     "location": "US"
   },
   {
+    "id": "school_fordham_university",
+    "name": "Fordham University",
+    "url": "https://www.fordham.edu/academics/departments/computer-and-information-science/",
+    "location": "US"
+  },
+  {
     "id": "school_freie_universitaet_berlin",
     "name": "Freie Universitaet Berlin",
     "url": "https://www.mi.fu-berlin.de/en/inf/",
@@ -510,6 +540,12 @@
     "location": "RU"
   },
   {
+    "id": "school_hvl",
+    "name": "HVL",
+    "url": "https://www.hvl.no/en/about/management/faculty-of-technology-environmental-and-social-sciences/department-of-computer-science-electrical-engineering-and-mathematical-sciences/",
+    "location": "NO"
+  },
+  {
     "id": "school_hacettepe_university",
     "name": "Hacettepe University",
     "url": "https://web.cs.hacettepe.edu.tr",
@@ -550,6 +586,12 @@
     "name": "Heriot-Watt University",
     "url": "https://www.hw.ac.uk/about/our-schools/mathematical-and-computer-sciences/",
     "location": "GB"
+  },
+  {
+    "id": "school_howard_university",
+    "name": "Howard University",
+    "url": "https://cea.howard.edu/academics/departments/department-electrical-engineering-and-computer-science",
+    "location": "US"
   },
   {
     "id": "school_humboldt_university_of_berlin",
@@ -768,6 +810,12 @@
     "location": "NL"
   },
   {
+    "id": "school_link_ping_university",
+    "name": "Linköping University",
+    "url": "https://liu.se/en/organisation/liu/ida",
+    "location": "SE"
+  },
+  {
     "id": "school_loughborough_university",
     "name": "Loughborough University",
     "url": "https://www.lboro.ac.uk",
@@ -928,6 +976,12 @@
     "name": "Newcastle University",
     "url": "https://www.ncl.ac.uk/computing/",
     "location": "GB"
+  },
+  {
+    "id": "school_north_carolina_a_t_state_university",
+    "name": "North Carolina A&T State University",
+    "url": "https://www.ncat.edu/coe/departments/cs/index.php",
+    "location": "US"
   },
   {
     "id": "school_north_carolina_state_university",
@@ -1116,6 +1170,12 @@
     "location": "US"
   },
   {
+    "id": "school_rowan_university",
+    "name": "Rowan University",
+    "url": "https://csm.rowan.edu/departments/cs/",
+    "location": "US"
+  },
+  {
     "id": "school_royal_holloway_univ_of_london",
     "name": "Royal Holloway Univ. of London",
     "url": "https://pure.royalholloway.ac.uk",
@@ -1176,6 +1236,12 @@
     "location": "NO"
   },
   {
+    "id": "school_south_dakota_state_university",
+    "name": "South Dakota State University",
+    "url": "https://www.sdstate.edu/mccomish-electrical-engineering-computer-science",
+    "location": "US"
+  },
+  {
     "id": "school_southern_methodist_university",
     "name": "Southern Methodist University",
     "url": "https://www.smu.edu/lyle/departments/cs",
@@ -1198,6 +1264,12 @@
     "name": "Stony Brook University",
     "url": "https://www.cs.stonybrook.edu/",
     "location": "US"
+  },
+  {
+    "id": "school_swansea_university",
+    "name": "Swansea University",
+    "url": "https://www.swansea.ac.uk/compsci/",
+    "location": "GB"
   },
   {
     "id": "school_syracuse_university",
@@ -1324,6 +1396,12 @@
     "name": "Tampere University",
     "url": "https://www.tuni.fi",
     "location": "FI"
+  },
+  {
+    "id": "school_technical_university_of_valencia",
+    "name": "Technical University of Valencia",
+    "url": "https://www.etsinf.upv.es/",
+    "location": "ES"
   },
   {
     "id": "school_technion",
@@ -1522,6 +1600,12 @@
     "name": "Univ. of Modena and Reggio Emilia",
     "url": "https://personale.unimore.it",
     "location": "IT"
+  },
+  {
+    "id": "school_univ_of_tennessee_at_chattanooga",
+    "name": "Univ. of Tennessee at Chattanooga",
+    "url": "https://www.utc.edu/engineering-and-computer-science/academic-programs/computer-science-and-engineering",
+    "location": "US"
   },
   {
     "id": "school_univ_of_wisconsin_milwaukee",
@@ -1770,6 +1854,12 @@
     "location": "GR"
   },
   {
+    "id": "school_university_of_dayton",
+    "name": "University of Dayton",
+    "url": "https://udayton.edu/engineering/academics/computer-science/",
+    "location": "US"
+  },
+  {
     "id": "school_university_of_delaware",
     "name": "University of Delaware",
     "url": "https://www.cis.udel.edu/",
@@ -1822,6 +1912,12 @@
     "name": "University of Exeter",
     "url": "https://computerscience.exeter.ac.uk/",
     "location": "GB"
+  },
+  {
+    "id": "school_university_of_florence",
+    "name": "University of Florence",
+    "url": "https://www.dinfo.unifi.it/",
+    "location": "IT"
   },
   {
     "id": "school_university_of_florida",
@@ -1906,6 +2002,12 @@
     "name": "University of Helsinki",
     "url": "https://www.helsinki.fi/en/faculty-science/faculty/computer-science",
     "location": "FI"
+  },
+  {
+    "id": "school_university_of_hertfordshire",
+    "name": "University of Hertfordshire",
+    "url": "https://researchprofiles.herts.ac.uk/en/organisations/department-of-computer-science/",
+    "location": "GB"
   },
   {
     "id": "school_university_of_hildesheim",
@@ -2256,6 +2358,12 @@
     "location": "US"
   },
   {
+    "id": "school_university_of_oslo",
+    "name": "University of Oslo",
+    "url": "https://www.mn.uio.no/ifi/english/",
+    "location": "NO"
+  },
+  {
     "id": "school_university_of_osnabr_ck",
     "name": "University of Osnabrück",
     "url": "https://www.informatik.uni-osnabrueck.de",
@@ -2308,6 +2416,12 @@
     "name": "University of Pittsburgh",
     "url": "https://www.cs.pitt.edu/",
     "location": "US"
+  },
+  {
+    "id": "school_university_of_porto",
+    "name": "University of Porto",
+    "url": "https://www.dcc.fc.up.pt/en/",
+    "location": "PT"
   },
   {
     "id": "school_university_of_potsdam",
@@ -2400,6 +2514,12 @@
     "location": "US"
   },
   {
+    "id": "school_university_of_southern_denmark",
+    "name": "University of Southern Denmark",
+    "url": "https://www.sdu.dk/en/om-sdu/institutter-centre/imada_matematik_og_datalogi",
+    "location": "DK"
+  },
+  {
     "id": "school_university_of_southern_mississippi",
     "name": "University of Southern Mississippi",
     "url": "https://www.usm.edu/computing-sciences-computer-engineering/index.php",
@@ -2446,6 +2566,12 @@
     "name": "University of Tartu",
     "url": "https://cs.ut.ee/",
     "location": "EE"
+  },
+  {
+    "id": "school_university_of_technology_nuremberg",
+    "name": "University of Technology Nuremberg",
+    "url": "https://www.utn.de/en/departments/department-computer-science-artificial-intelligence/",
+    "location": "DE"
   },
   {
     "id": "school_university_of_tennessee",
@@ -2502,6 +2628,12 @@
     "location": "US"
   },
   {
+    "id": "school_university_of_turku",
+    "name": "University of Turku",
+    "url": "https://www.utu.fi/en/university/faculty-of-technology/computing",
+    "location": "FI"
+  },
+  {
     "id": "school_university_of_twente",
     "name": "University of Twente",
     "url": "https://www.utwente.nl/en/eemcs/",
@@ -2548,6 +2680,12 @@
     "name": "University of Vienna",
     "url": "https://informatik.univie.ac.at/en/",
     "location": "AT"
+  },
+  {
+    "id": "school_university_of_vigo",
+    "name": "University of Vigo",
+    "url": "https://esei.uvigo.es/",
+    "location": "ES"
   },
   {
     "id": "school_university_of_virginia",
@@ -2608,6 +2746,12 @@
     "name": "University of York",
     "url": "https://www.york.ac.uk/computer-science/",
     "location": "GB"
+  },
+  {
+    "id": "school_university_of_zagreb",
+    "name": "University of Zagreb",
+    "url": "https://www.fer.unizg.hr/en",
+    "location": "HR"
   },
   {
     "id": "school_university_of_zurich",
@@ -2682,6 +2826,12 @@
     "location": "US"
   },
   {
+    "id": "school_vilnius_university",
+    "name": "Vilnius University",
+    "url": "https://mif.vu.lt/lt3/en/",
+    "location": "LT"
+  },
+  {
     "id": "school_virginia_commonwealth_university",
     "name": "Virginia Commonwealth University",
     "url": "https://egr.vcu.edu/departments/computer-science/",
@@ -2692,6 +2842,12 @@
     "name": "Virginia Tech",
     "url": "https://cs.vt.edu/",
     "location": "US"
+  },
+  {
+    "id": "school_warsaw_university_of_technology",
+    "name": "Warsaw University of Technology",
+    "url": "https://www.ii.pw.edu.pl/ii_en",
+    "location": "PL"
   },
   {
     "id": "school_washington_state_university",
@@ -2739,6 +2895,12 @@
     "id": "school_worcester_polytechnic_institute",
     "name": "Worcester Polytechnic Institute",
     "url": "https://www.wpi.edu/academics/departments/computer-science",
+    "location": "US"
+  },
+  {
+    "id": "school_wright_state_university",
+    "name": "Wright State University",
+    "url": "https://engineering-computer-science.wright.edu/computer-science-and-engineering",
     "location": "US"
   },
   {
