@@ -47408,6 +47408,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_shaogang_ren",
+    "name": "Shaogang Ren",
+    "company": "Univ. of Tennessee at Chattanooga",
+    "location": "US",
+    "url": "https://shaogangren.github.io",
+    "tags": [
+      "applied_ml",
+      "ml_broad"
+    ],
+    "score": 0.8,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_sharon_levy",
     "name": "Sharon Levy",
     "company": "Rutgers University",
@@ -68102,6 +68116,19 @@
     "url": "https://www.cs.purdue.edu/people/faculty/ci",
     "tags": [
       "llm_nlp"
+    ],
+    "score": 0.3,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
+    "id": "prof_csr_zihao_wang_0002",
+    "name": "Zihao Wang 0002",
+    "company": "Univ. of Tennessee at Chattanooga",
+    "location": "US",
+    "url": "https://drzihao.wang",
+    "tags": [
+      "ml_broad"
     ],
     "score": 0.3,
     "source": "CSRankings",
