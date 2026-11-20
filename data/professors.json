@@ -10495,6 +10495,20 @@
     "note": ""
   },
   {
+    "id": "prof_csr_alois_knoll",
+    "name": "Alois Knoll",
+    "company": "TU Munich",
+    "location": "DE",
+    "url": "https://www.ce.cit.tum.de/air/people/prof-dr-ing-habil-alois-knoll",
+    "tags": [
+      "ml_broad",
+      "applied_ml"
+    ],
+    "score": 4.8,
+    "source": "CSRankings",
+    "note": ""
+  },
+  {
     "id": "prof_csr_ambuj_k_singh",
     "name": "Ambuj K. Singh",
     "company": "Univ. of California - Santa Barbara",
