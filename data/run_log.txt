@@ -2621,3 +2621,10 @@
 [2026-11-23 04:15:23 UTC] Regenerated tracker page at /home/runner/work/phd-tracker/phd-tracker/docs/index.html (110 total positions, 6092 professors, 487 schools)
 [2026-11-23 04:15:23 UTC] Run complete.
 
+[2026-11-23 19:33:18 UTC] Starting PhD position check run...
+[2026-11-23 19:33:34 UTC] No new positions found this run.
+[2026-11-23 19:33:37 UTC] Wrote 6092 professors to /home/runner/work/phd-tracker/phd-tracker/data/professors.json
+[2026-11-23 19:33:37 UTC] Wrote 487 schools to /home/runner/work/phd-tracker/phd-tracker/data/schools.json
+[2026-11-23 19:33:37 UTC] Regenerated tracker page at /home/runner/work/phd-tracker/phd-tracker/docs/index.html (110 total positions, 6092 professors, 487 schools)
+[2026-11-23 19:33:37 UTC] Run complete.
+
